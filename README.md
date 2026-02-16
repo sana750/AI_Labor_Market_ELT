@@ -67,8 +67,9 @@ This will:
 - Generate visualizations in the `images/` folder
 
 
-#Quetion sanswer
-Bwloq is the Pipeline architecture diagram.
+# Question answer
+
+Bwlow is the Pipeline architecture diagram.
 ![Pipeline Architecture](images/ELT_architecture_diagram.png)
 
 ## Part 1 Questions
