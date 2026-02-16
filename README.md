@@ -1,5 +1,73 @@
 # AI Labor Market ELT Pipeline
 
+## Setup Instructions
+
+Follow these steps to set up and run the AI Labor Markets ELT Pipeline:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/AI_Labor_Market_ELT.git
+cd AI_Labor_Market_ELT
+```
+
+### 2. Create a Virtual Environment
+Use a virtual environment to manage dependencies.
+
+```bash
+python -m venv venv
+```
+
+### 3. Activate the Virtual Environment
+
+**Windows:**
+```bash
+venv\Scripts\activate
+```
+
+### 4. Install Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Your `requirements.txt` should include:
+
+```
+pandas
+numpy
+requests
+python-dotenv
+matplotlib
+seaborn
+pytrends
+```
+
+### 5. Set up Environment Variables (.env File)
+
+Create a file named `.env` in the project root directory and add your Adzuna API credentials:
+
+```
+ADZUNA_APP_ID=your_adzuna_app_id
+ADZUNA_APP_KEY=your_adzuna_app_key
+```
+
+### 6. Run the Pipeline
+
+Execute the main pipeline script:
+
+```bash
+python run_pipeline.py
+```
+
+This will:
+- Extract data from Adzuna API, Kaggle dataset, and Google Trends
+- Store raw data in `data/raw/`
+- Clean and transform the datasets
+- Save processed data in `data/cleaned/`
+- Generate visualizations in the `images/` folder
+
+#Quetion sanswer
+
 ## Part 1 Questions
 
 ### (a) Data Heterogeneity
@@ -74,9 +142,9 @@ For this assignment, I applied careful data cleaning and transformation steps to
    - **Text normalization:** I converted text columns such as `Job_Title`, `Industry`, and `Location` to lowercase and stripped extra whitespace to standardize entries, which makes aggregations and visualizations more accurate.
 
 3. **Google Trends Dataset:**  
-   - **Duplicates removed:** Ensured no repeated records skewed the analysis.  
-   - **Missing values filled:** All NaNs were replaced with `0`, which is reasonable for search interest data.  
-   - **Date conversion:** The `date` column was converted to datetime format to support temporal visualizations.
+   - **Duplicates removed:** I ensured no repeated records skewed the analysis.  
+   - **Missing values filled:** I replaced all NaNs with `0`, which is reasonable for search interest data.  
+   - **Date conversion:** I converted the `date` column to a datetime format to support temporal visualizations.
 
 Overall, these cleaning steps were chosen to balance data integrity with usability, enabling meaningful analysis and visualizations without introducing biases from missing or inconsistent values.
 
@@ -117,11 +185,6 @@ While the current visualizations are informative, there are some limitations:
 3. **Data Granularity:**  
    - Salary distribution plots do not account for job level or experience, which could provide more nuanced insights.  
    - Google Trends visualizations show overall interest but cannot distinguish between genuine job seekers and casual search traffic.
-
-**Potential Improvements:**  
-- Adding interactive dashboards using tools like Plotly or Tableau.  
-- Incorporating filters for region, experience, or skill level to make insights more actionable.  
-- Combining datasets for correlation analyses, e.g., linking salary trends with search interest over time.
 
 ---
 
