@@ -1,0 +1,513 @@
+[
+  {
+    "Artificial Intelligence":22,
+    "Deep Learning":12,
+    "Data Scientist":13,
+    "Data Analyst":19,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":24,
+    "Deep Learning":13,
+    "Data Scientist":13,
+    "Data Analyst":18,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":20,
+    "Deep Learning":11,
+    "Data Scientist":10,
+    "Data Analyst":14,
+    "AI Engineer":0
+  },
+  {
+    "Artificial Intelligence":22,
+    "Deep Learning":12,
+    "Data Scientist":11,
+    "Data Analyst":15,
+    "AI Engineer":0
+  },
+  {
+    "Artificial Intelligence":19,
+    "Deep Learning":12,
+    "Data Scientist":12,
+    "Data Analyst":16,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":17,
+    "Deep Learning":12,
+    "Data Scientist":13,
+    "Data Analyst":18,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":17,
+    "Deep Learning":12,
+    "Data Scientist":11,
+    "Data Analyst":19,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":18,
+    "Deep Learning":11,
+    "Data Scientist":13,
+    "Data Analyst":18,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":20,
+    "Deep Learning":11,
+    "Data Scientist":16,
+    "Data Analyst":17,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":19,
+    "Deep Learning":10,
+    "Data Scientist":12,
+    "Data Analyst":17,
+    "AI Engineer":0
+  },
+  {
+    "Artificial Intelligence":19,
+    "Deep Learning":9,
+    "Data Scientist":10,
+    "Data Analyst":14,
+    "AI Engineer":0
+  },
+  {
+    "Artificial Intelligence":18,
+    "Deep Learning":9,
+    "Data Scientist":12,
+    "Data Analyst":14,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":18,
+    "Deep Learning":8,
+    "Data Scientist":11,
+    "Data Analyst":17,
+    "AI Engineer":0
+  },
+  {
+    "Artificial Intelligence":20,
+    "Deep Learning":10,
+    "Data Scientist":12,
+    "Data Analyst":17,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":17,
+    "Deep Learning":9,
+    "Data Scientist":10,
+    "Data Analyst":18,
+    "AI Engineer":0
+  },
+  {
+    "Artificial Intelligence":18,
+    "Deep Learning":9,
+    "Data Scientist":12,
+    "Data Analyst":19,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":18,
+    "Deep Learning":9,
+    "Data Scientist":11,
+    "Data Analyst":20,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":15,
+    "Deep Learning":9,
+    "Data Scientist":11,
+    "Data Analyst":21,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":15,
+    "Deep Learning":9,
+    "Data Scientist":11,
+    "Data Analyst":21,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":16,
+    "Deep Learning":9,
+    "Data Scientist":12,
+    "Data Analyst":23,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":18,
+    "Deep Learning":10,
+    "Data Scientist":15,
+    "Data Analyst":24,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":21,
+    "Deep Learning":11,
+    "Data Scientist":13,
+    "Data Analyst":23,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":20,
+    "Deep Learning":10,
+    "Data Scientist":13,
+    "Data Analyst":22,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":18,
+    "Deep Learning":9,
+    "Data Scientist":12,
+    "Data Analyst":21,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":17,
+    "Deep Learning":12,
+    "Data Scientist":17,
+    "Data Analyst":32,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":20,
+    "Deep Learning":14,
+    "Data Scientist":20,
+    "Data Analyst":36,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":21,
+    "Deep Learning":15,
+    "Data Scientist":19,
+    "Data Analyst":39,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":23,
+    "Deep Learning":16,
+    "Data Scientist":20,
+    "Data Analyst":36,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":19,
+    "Deep Learning":14,
+    "Data Scientist":19,
+    "Data Analyst":35,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":18,
+    "Deep Learning":12,
+    "Data Scientist":17,
+    "Data Analyst":35,
+    "AI Engineer":5
+  },
+  {
+    "Artificial Intelligence":17,
+    "Deep Learning":12,
+    "Data Scientist":15,
+    "Data Analyst":33,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":19,
+    "Deep Learning":11,
+    "Data Scientist":18,
+    "Data Analyst":35,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":23,
+    "Deep Learning":13,
+    "Data Scientist":19,
+    "Data Analyst":35,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":22,
+    "Deep Learning":14,
+    "Data Scientist":18,
+    "Data Analyst":35,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":22,
+    "Deep Learning":13,
+    "Data Scientist":15,
+    "Data Analyst":31,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":24,
+    "Deep Learning":11,
+    "Data Scientist":12,
+    "Data Analyst":28,
+    "AI Engineer":1
+  },
+  {
+    "Artificial Intelligence":30,
+    "Deep Learning":13,
+    "Data Scientist":17,
+    "Data Analyst":36,
+    "AI Engineer":2
+  },
+  {
+    "Artificial Intelligence":39,
+    "Deep Learning":14,
+    "Data Scientist":16,
+    "Data Analyst":38,
+    "AI Engineer":2
+  },
+  {
+    "Artificial Intelligence":39,
+    "Deep Learning":16,
+    "Data Scientist":16,
+    "Data Analyst":40,
+    "AI Engineer":2
+  },
+  {
+    "Artificial Intelligence":53,
+    "Deep Learning":15,
+    "Data Scientist":17,
+    "Data Analyst":38,
+    "AI Engineer":3
+  },
+  {
+    "Artificial Intelligence":50,
+    "Deep Learning":13,
+    "Data Scientist":16,
+    "Data Analyst":38,
+    "AI Engineer":4
+  },
+  {
+    "Artificial Intelligence":37,
+    "Deep Learning":12,
+    "Data Scientist":14,
+    "Data Analyst":37,
+    "AI Engineer":3
+  },
+  {
+    "Artificial Intelligence":36,
+    "Deep Learning":11,
+    "Data Scientist":13,
+    "Data Analyst":36,
+    "AI Engineer":3
+  },
+  {
+    "Artificial Intelligence":32,
+    "Deep Learning":12,
+    "Data Scientist":24,
+    "Data Analyst":38,
+    "AI Engineer":3
+  },
+  {
+    "Artificial Intelligence":36,
+    "Deep Learning":13,
+    "Data Scientist":20,
+    "Data Analyst":38,
+    "AI Engineer":3
+  },
+  {
+    "Artificial Intelligence":39,
+    "Deep Learning":14,
+    "Data Scientist":18,
+    "Data Analyst":36,
+    "AI Engineer":3
+  },
+  {
+    "Artificial Intelligence":39,
+    "Deep Learning":14,
+    "Data Scientist":16,
+    "Data Analyst":33,
+    "AI Engineer":3
+  },
+  {
+    "Artificial Intelligence":36,
+    "Deep Learning":12,
+    "Data Scientist":14,
+    "Data Analyst":29,
+    "AI Engineer":3
+  },
+  {
+    "Artificial Intelligence":37,
+    "Deep Learning":13,
+    "Data Scientist":19,
+    "Data Analyst":41,
+    "AI Engineer":4
+  },
+  {
+    "Artificial Intelligence":41,
+    "Deep Learning":15,
+    "Data Scientist":19,
+    "Data Analyst":41,
+    "AI Engineer":4
+  },
+  {
+    "Artificial Intelligence":40,
+    "Deep Learning":14,
+    "Data Scientist":17,
+    "Data Analyst":37,
+    "AI Engineer":7
+  },
+  {
+    "Artificial Intelligence":39,
+    "Deep Learning":15,
+    "Data Scientist":19,
+    "Data Analyst":38,
+    "AI Engineer":5
+  },
+  {
+    "Artificial Intelligence":38,
+    "Deep Learning":12,
+    "Data Scientist":17,
+    "Data Analyst":38,
+    "AI Engineer":5
+  },
+  {
+    "Artificial Intelligence":40,
+    "Deep Learning":13,
+    "Data Scientist":15,
+    "Data Analyst":38,
+    "AI Engineer":5
+  },
+  {
+    "Artificial Intelligence":32,
+    "Deep Learning":12,
+    "Data Scientist":14,
+    "Data Analyst":40,
+    "AI Engineer":5
+  },
+  {
+    "Artificial Intelligence":36,
+    "Deep Learning":12,
+    "Data Scientist":19,
+    "Data Analyst":40,
+    "AI Engineer":5
+  },
+  {
+    "Artificial Intelligence":38,
+    "Deep Learning":14,
+    "Data Scientist":21,
+    "Data Analyst":42,
+    "AI Engineer":5
+  },
+  {
+    "Artificial Intelligence":40,
+    "Deep Learning":15,
+    "Data Scientist":18,
+    "Data Analyst":40,
+    "AI Engineer":6
+  },
+  {
+    "Artificial Intelligence":42,
+    "Deep Learning":14,
+    "Data Scientist":15,
+    "Data Analyst":36,
+    "AI Engineer":6
+  },
+  {
+    "Artificial Intelligence":39,
+    "Deep Learning":12,
+    "Data Scientist":15,
+    "Data Analyst":33,
+    "AI Engineer":5
+  },
+  {
+    "Artificial Intelligence":44,
+    "Deep Learning":14,
+    "Data Scientist":18,
+    "Data Analyst":42,
+    "AI Engineer":7
+  },
+  {
+    "Artificial Intelligence":50,
+    "Deep Learning":18,
+    "Data Scientist":18,
+    "Data Analyst":44,
+    "AI Engineer":8
+  },
+  {
+    "Artificial Intelligence":50,
+    "Deep Learning":17,
+    "Data Scientist":18,
+    "Data Analyst":42,
+    "AI Engineer":8
+  },
+  {
+    "Artificial Intelligence":49,
+    "Deep Learning":17,
+    "Data Scientist":18,
+    "Data Analyst":41,
+    "AI Engineer":8
+  },
+  {
+    "Artificial Intelligence":48,
+    "Deep Learning":15,
+    "Data Scientist":17,
+    "Data Analyst":36,
+    "AI Engineer":10
+  },
+  {
+    "Artificial Intelligence":67,
+    "Deep Learning":18,
+    "Data Scientist":18,
+    "Data Analyst":43,
+    "AI Engineer":19
+  },
+  {
+    "Artificial Intelligence":95,
+    "Deep Learning":31,
+    "Data Scientist":19,
+    "Data Analyst":49,
+    "AI Engineer":23
+  },
+  {
+    "Artificial Intelligence":80,
+    "Deep Learning":30,
+    "Data Scientist":20,
+    "Data Analyst":55,
+    "AI Engineer":21
+  },
+  {
+    "Artificial Intelligence":70,
+    "Deep Learning":26,
+    "Data Scientist":21,
+    "Data Analyst":47,
+    "AI Engineer":20
+  },
+  {
+    "Artificial Intelligence":59,
+    "Deep Learning":20,
+    "Data Scientist":20,
+    "Data Analyst":40,
+    "AI Engineer":19
+  },
+  {
+    "Artificial Intelligence":83,
+    "Deep Learning":37,
+    "Data Scientist":18,
+    "Data Analyst":41,
+    "AI Engineer":22
+  },
+  {
+    "Artificial Intelligence":92,
+    "Deep Learning":42,
+    "Data Scientist":21,
+    "Data Analyst":51,
+    "AI Engineer":26
+  },
+  {
+    "Artificial Intelligence":100,
+    "Deep Learning":54,
+    "Data Scientist":27,
+    "Data Analyst":53,
+    "AI Engineer":30
+  }
+]

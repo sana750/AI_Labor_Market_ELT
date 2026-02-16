@@ -1,0 +1,501 @@
+Job_Title,Industry,Company_Size,Location,AI_Adoption_Level,Automation_Risk,Required_Skills,Salary_USD,Remote_Friendly,Job_Growth_Projection
+cybersecurity analyst,entertainment,small,dubai,medium,high,ux/ui design,111392.16524315962,yes,growth
+marketing specialist,technology,large,singapore,medium,high,marketing,93792.56246610906,no,decline
+ai researcher,technology,large,singapore,medium,high,ux/ui design,107170.26306894996,yes,growth
+sales manager,retail,small,berlin,low,high,project management,93027.95375786416,no,growth
+cybersecurity analyst,entertainment,small,tokyo,low,low,javascript,87752.92217059238,yes,decline
+ux designer,education,large,san francisco,medium,medium,cybersecurity,102825.0078665678,no,growth
+hr manager,finance,medium,singapore,low,high,sales,102065.72067347592,yes,growth
+cybersecurity analyst,technology,small,dubai,medium,low,machine learning,86607.3176180969,yes,decline
+ai researcher,retail,large,london,high,low,javascript,75015.86084571481,no,stable
+sales manager,entertainment,medium,singapore,high,low,cybersecurity,96834.57829480869,yes,decline
+marketing specialist,finance,small,london,high,high,python,91566.97337925188,yes,growth
+ai researcher,entertainment,medium,singapore,medium,high,ux/ui design,78902.56574458485,no,growth
+ai researcher,transportation,large,san francisco,high,medium,python,73151.99034926406,yes,growth
+hr manager,retail,small,paris,low,high,cybersecurity,98209.51687788912,yes,decline
+product manager,finance,medium,singapore,high,high,javascript,101001.90114055388,yes,growth
+sales manager,telecommunications,small,dubai,high,low,ux/ui design,82799.35770690278,no,growth
+software engineer,manufacturing,medium,singapore,high,medium,machine learning,78401.25928174148,no,decline
+ai researcher,manufacturing,large,tokyo,low,high,project management,73394.89621925619,no,stable
+product manager,finance,large,san francisco,medium,high,ux/ui design,97645.09878289838,yes,stable
+software engineer,entertainment,small,dubai,low,low,ux/ui design,73920.45852718527,yes,growth
+sales manager,retail,medium,sydney,medium,low,javascript,134822.69138041462,yes,decline
+data scientist,manufacturing,small,dubai,medium,high,javascript,81794.37128058006,yes,growth
+ux designer,retail,small,tokyo,high,medium,cybersecurity,41495.71444254798,no,decline
+product manager,manufacturing,medium,paris,medium,medium,data analysis,89396.5666674173,yes,decline
+operations manager,transportation,medium,san francisco,low,low,ux/ui design,88539.33040362394,yes,stable
+data scientist,entertainment,medium,sydney,low,low,sales,112234.37135048377,yes,stable
+ux designer,transportation,large,tokyo,medium,high,ux/ui design,95762.52473455408,no,decline
+hr manager,manufacturing,small,tokyo,high,low,cybersecurity,73323.29633120395,yes,growth
+cybersecurity analyst,telecommunications,small,new york,high,high,marketing,84272.16253006447,yes,stable
+marketing specialist,telecommunications,large,san francisco,low,medium,python,96548.39543301976,yes,growth
+operations manager,transportation,medium,dubai,high,medium,project management,46705.714993791786,yes,stable
+hr manager,telecommunications,large,london,medium,high,data analysis,116772.434687809,yes,stable
+sales manager,manufacturing,large,paris,medium,low,machine learning,73376.6022839067,no,growth
+hr manager,finance,large,london,low,medium,machine learning,118340.87641895234,yes,stable
+cybersecurity analyst,transportation,small,dubai,medium,low,machine learning,97849.30282253175,yes,stable
+sales manager,healthcare,large,dubai,low,medium,javascript,102591.88272787948,yes,growth
+operations manager,entertainment,small,san francisco,medium,high,machine learning,112988.46872002544,yes,stable
+cybersecurity analyst,telecommunications,small,dubai,low,high,project management,101462.64105384996,yes,stable
+software engineer,telecommunications,small,new york,high,high,python,103457.72432634902,yes,stable
+marketing specialist,technology,medium,sydney,medium,medium,machine learning,86711.67119077238,yes,growth
+operations manager,education,small,dubai,medium,low,ux/ui design,97443.3736294419,yes,decline
+software engineer,transportation,small,london,low,low,ux/ui design,78250.04370056515,yes,growth
+ux designer,energy,medium,dubai,low,low,javascript,83131.77800824065,yes,decline
+operations manager,telecommunications,small,new york,medium,medium,project management,129293.90095937817,no,stable
+ux designer,entertainment,large,singapore,low,medium,python,73836.12829899156,no,decline
+sales manager,healthcare,large,singapore,medium,medium,data analysis,93086.3425327256,no,growth
+software engineer,telecommunications,small,tokyo,high,medium,cybersecurity,92269.38073430952,no,growth
+marketing specialist,healthcare,medium,paris,low,medium,python,83784.91056438402,yes,stable
+cybersecurity analyst,manufacturing,large,berlin,medium,low,cybersecurity,100288.01873140877,no,decline
+ai researcher,manufacturing,medium,sydney,high,medium,marketing,101794.44185482766,no,stable
+hr manager,education,medium,toronto,high,medium,cybersecurity,71483.61633704841,yes,stable
+data scientist,finance,large,tokyo,medium,low,sales,92027.13423093104,no,growth
+marketing specialist,energy,medium,paris,low,medium,ux/ui design,68352.65322455287,no,decline
+software engineer,technology,large,singapore,medium,low,project management,105770.97236634602,yes,decline
+ai researcher,education,medium,london,high,low,communication,93529.74620725252,yes,decline
+marketing specialist,retail,large,toronto,medium,high,javascript,91646.59773434176,yes,decline
+software engineer,technology,small,paris,low,high,sales,103180.62697744806,no,stable
+product manager,transportation,large,paris,high,high,cybersecurity,84489.79419063198,no,stable
+product manager,entertainment,large,tokyo,medium,high,machine learning,108280.43918436408,yes,growth
+ux designer,retail,large,toronto,low,medium,project management,71031.10254487729,yes,stable
+marketing specialist,retail,large,san francisco,high,high,sales,118237.53037789057,no,stable
+product manager,education,medium,berlin,low,low,javascript,78981.77634890293,yes,growth
+software engineer,finance,small,san francisco,high,medium,ux/ui design,56076.41864608825,no,growth
+ux designer,education,large,toronto,medium,high,project management,83429.30183074536,yes,growth
+software engineer,transportation,medium,san francisco,low,low,javascript,81160.63605491581,yes,stable
+ux designer,telecommunications,small,new york,high,medium,marketing,83278.52027699928,no,stable
+marketing specialist,telecommunications,small,singapore,low,medium,marketing,94632.96030967963,yes,growth
+ai researcher,finance,small,new york,low,high,javascript,111956.84721776543,yes,growth
+cybersecurity analyst,transportation,small,dubai,medium,medium,sales,86165.88172205727,yes,growth
+operations manager,finance,large,san francisco,low,low,project management,76167.64860362199,no,stable
+ai researcher,healthcare,large,dubai,high,medium,sales,67469.06375432406,yes,stable
+sales manager,telecommunications,medium,london,high,low,data analysis,80636.34417381912,yes,decline
+software engineer,retail,medium,sydney,high,medium,cybersecurity,52243.50321499295,yes,stable
+sales manager,energy,medium,london,high,high,data analysis,75497.33812967277,yes,stable
+ai researcher,entertainment,small,toronto,medium,low,marketing,114881.07791724372,yes,stable
+ux designer,transportation,small,paris,low,medium,ux/ui design,73532.81590843154,yes,growth
+operations manager,technology,large,singapore,medium,medium,python,102574.31721600612,no,stable
+operations manager,finance,small,san francisco,low,medium,cybersecurity,65470.358203830205,no,growth
+data scientist,entertainment,small,tokyo,low,low,marketing,125421.91798621108,yes,decline
+operations manager,technology,small,sydney,low,low,sales,126752.1346612942,no,decline
+cybersecurity analyst,entertainment,medium,berlin,medium,low,sales,101820.43113119752,no,growth
+operations manager,energy,medium,berlin,low,high,sales,129825.05203287044,yes,growth
+ai researcher,technology,large,berlin,medium,high,ux/ui design,97115.85949855324,no,growth
+data scientist,education,small,san francisco,high,low,data analysis,105370.34228299111,no,stable
+ai researcher,manufacturing,small,berlin,high,medium,python,115238.6775346307,no,decline
+ai researcher,education,large,new york,low,high,sales,93594.369061969,no,growth
+hr manager,telecommunications,small,sydney,medium,low,communication,58952.450768298775,no,stable
+data scientist,manufacturing,small,new york,high,medium,cybersecurity,105779.26710468795,no,decline
+ai researcher,education,medium,paris,medium,high,project management,80562.80811133073,no,stable
+hr manager,manufacturing,large,sydney,medium,medium,communication,82049.4035808908,no,decline
+hr manager,manufacturing,large,new york,low,medium,python,95957.8983295738,yes,stable
+data scientist,retail,large,sydney,high,medium,ux/ui design,101325.6175943474,yes,decline
+sales manager,finance,large,paris,low,medium,python,93002.69268012435,no,decline
+ux designer,finance,medium,dubai,low,high,project management,102714.59072314618,no,stable
+cybersecurity analyst,retail,medium,san francisco,high,high,cybersecurity,75862.85731879607,yes,growth
+ux designer,entertainment,small,san francisco,high,high,project management,89145.92410553433,no,decline
+operations manager,healthcare,small,berlin,medium,low,javascript,106981.70900901742,no,growth
+cybersecurity analyst,entertainment,small,london,high,high,cybersecurity,125455.82352873433,yes,stable
+operations manager,technology,small,berlin,medium,medium,python,132528.71177946418,yes,growth
+ai researcher,technology,medium,toronto,medium,high,sales,98659.53365455465,yes,growth
+software engineer,manufacturing,large,new york,medium,medium,python,106800.19653491216,no,growth
+data scientist,education,medium,sydney,high,low,python,129631.5832963038,no,growth
+cybersecurity analyst,education,small,london,low,medium,cybersecurity,76583.27926533011,yes,growth
+cybersecurity analyst,finance,medium,paris,medium,medium,javascript,102593.99705425168,yes,decline
+ai researcher,transportation,large,toronto,low,medium,python,105366.85898972292,no,decline
+sales manager,entertainment,large,paris,low,low,communication,118957.22872153488,yes,decline
+hr manager,telecommunications,medium,san francisco,high,high,marketing,67257.17238927555,no,stable
+ai researcher,energy,medium,san francisco,low,high,machine learning,71211.88432398967,no,growth
+product manager,education,medium,berlin,low,low,machine learning,90427.64422209412,yes,decline
+hr manager,energy,small,new york,high,medium,python,97554.55324643273,yes,stable
+data scientist,manufacturing,medium,london,medium,high,communication,112457.27907467616,no,decline
+hr manager,energy,medium,singapore,low,low,sales,100350.87551624542,yes,decline
+sales manager,telecommunications,medium,toronto,high,high,ux/ui design,86971.73539779433,yes,growth
+hr manager,retail,large,toronto,low,low,ux/ui design,98329.2288951228,yes,stable
+data scientist,telecommunications,large,berlin,low,medium,cybersecurity,96020.88952548904,yes,growth
+sales manager,energy,small,san francisco,medium,high,machine learning,124900.32859975575,no,growth
+ux designer,telecommunications,small,berlin,low,low,python,93313.17887137063,no,decline
+cybersecurity analyst,healthcare,large,sydney,high,high,ux/ui design,82338.33172894873,no,growth
+cybersecurity analyst,manufacturing,large,london,low,high,python,98992.1806014366,no,stable
+operations manager,entertainment,large,new york,medium,high,cybersecurity,93969.70638677065,yes,growth
+ux designer,retail,medium,dubai,medium,high,machine learning,58580.13288650656,yes,growth
+ux designer,education,medium,tokyo,high,low,project management,89686.95876755661,no,growth
+hr manager,technology,large,tokyo,medium,medium,marketing,87985.23509187989,no,decline
+cybersecurity analyst,entertainment,medium,berlin,low,low,marketing,79122.56268441367,yes,stable
+data scientist,technology,medium,sydney,medium,low,ux/ui design,110711.66575245943,no,decline
+marketing specialist,manufacturing,small,london,high,low,marketing,74286.40806776009,no,decline
+marketing specialist,retail,large,singapore,medium,medium,project management,99112.37239049075,yes,decline
+sales manager,finance,large,tokyo,medium,high,python,87042.86000312539,no,decline
+cybersecurity analyst,education,medium,london,medium,high,cybersecurity,92153.90011293563,yes,decline
+cybersecurity analyst,healthcare,large,new york,high,high,project management,98235.72582091736,yes,stable
+marketing specialist,finance,small,paris,medium,medium,cybersecurity,63848.51232217997,no,growth
+cybersecurity analyst,manufacturing,small,sydney,medium,high,cybersecurity,93833.21783469566,yes,decline
+hr manager,entertainment,small,san francisco,low,medium,machine learning,135778.94979426413,no,decline
+product manager,healthcare,large,london,high,high,python,58864.73308242552,yes,stable
+software engineer,telecommunications,large,new york,medium,high,communication,88847.84072568991,no,stable
+ux designer,energy,large,singapore,high,low,marketing,112464.7864964764,no,growth
+operations manager,healthcare,large,dubai,medium,medium,communication,96032.38495907192,no,stable
+sales manager,manufacturing,large,san francisco,medium,low,machine learning,103759.33904232067,yes,growth
+product manager,transportation,small,dubai,medium,low,cybersecurity,42486.67977814768,yes,decline
+marketing specialist,energy,medium,singapore,low,low,ux/ui design,101964.987492599,no,decline
+ux designer,technology,small,new york,low,medium,marketing,74766.23587532803,yes,growth
+cybersecurity analyst,education,large,tokyo,low,medium,marketing,96197.54569166292,no,stable
+operations manager,technology,small,dubai,high,high,python,89411.30538181018,no,growth
+cybersecurity analyst,healthcare,large,san francisco,high,low,javascript,135566.66058323265,yes,stable
+data scientist,technology,large,berlin,low,high,data analysis,100933.9064753175,no,decline
+data scientist,manufacturing,small,toronto,high,low,data analysis,87747.52341474428,yes,stable
+operations manager,telecommunications,large,london,medium,medium,data analysis,59806.144814928906,no,growth
+operations manager,entertainment,medium,tokyo,medium,medium,javascript,92422.93803699792,yes,growth
+marketing specialist,education,large,dubai,medium,medium,python,106464.57756693644,no,decline
+operations manager,technology,medium,paris,low,low,javascript,88388.96216361554,no,stable
+hr manager,technology,medium,london,high,medium,data analysis,79886.87280125119,yes,stable
+cybersecurity analyst,healthcare,large,berlin,low,low,machine learning,78548.26672307363,no,stable
+product manager,entertainment,small,singapore,high,high,project management,100702.8287091064,no,decline
+ai researcher,finance,medium,toronto,medium,low,cybersecurity,105187.75878618314,yes,stable
+operations manager,technology,small,new york,low,high,javascript,117224.20230642238,no,growth
+sales manager,manufacturing,medium,berlin,high,low,python,70100.00213579283,yes,stable
+data scientist,transportation,large,berlin,high,high,python,100519.55116835234,no,decline
+hr manager,education,large,singapore,medium,medium,communication,87565.92091164265,yes,stable
+ux designer,technology,medium,sydney,low,high,project management,88155.31590733438,no,stable
+ai researcher,manufacturing,large,singapore,low,medium,ux/ui design,98036.51708068005,no,growth
+product manager,manufacturing,medium,sydney,low,medium,marketing,98153.12507249897,no,stable
+ai researcher,education,large,sydney,medium,high,data analysis,100575.36211583146,yes,growth
+operations manager,finance,small,tokyo,low,low,ux/ui design,68850.5761560838,yes,growth
+marketing specialist,manufacturing,large,tokyo,medium,low,communication,75003.77185667082,yes,decline
+data scientist,transportation,small,san francisco,medium,low,data analysis,119717.36551035367,yes,growth
+data scientist,manufacturing,large,dubai,medium,low,project management,85588.5506503832,no,growth
+ux designer,manufacturing,small,dubai,high,low,communication,96120.28796035792,no,decline
+marketing specialist,manufacturing,large,new york,low,medium,data analysis,111093.32624086372,yes,growth
+cybersecurity analyst,telecommunications,small,dubai,low,low,project management,99268.86144721638,yes,decline
+software engineer,telecommunications,medium,tokyo,medium,medium,sales,100930.45261944078,yes,stable
+hr manager,finance,medium,san francisco,medium,medium,ux/ui design,107891.55358487512,no,decline
+data scientist,technology,small,san francisco,low,medium,ux/ui design,47666.72478206,yes,growth
+sales manager,manufacturing,large,sydney,medium,high,marketing,80200.99689678931,yes,decline
+data scientist,entertainment,small,singapore,low,high,project management,99372.11592999184,no,growth
+ai researcher,technology,large,new york,high,medium,javascript,117752.88614115314,no,stable
+data scientist,finance,medium,sydney,medium,high,sales,91321.91119311546,yes,decline
+data scientist,retail,large,singapore,low,low,machine learning,73105.67076487809,no,stable
+software engineer,technology,medium,dubai,medium,low,data analysis,73638.27900778996,yes,growth
+software engineer,technology,large,sydney,low,medium,sales,107677.22406906149,no,growth
+product manager,energy,large,london,low,low,project management,85644.52835216226,yes,stable
+cybersecurity analyst,healthcare,large,dubai,medium,medium,cybersecurity,89855.99908419327,yes,decline
+sales manager,energy,small,singapore,high,medium,data analysis,102300.60387544638,yes,decline
+data scientist,transportation,small,new york,low,low,python,31969.52634612842,yes,growth
+data scientist,telecommunications,medium,singapore,low,high,ux/ui design,130007.35023016162,no,stable
+hr manager,telecommunications,medium,sydney,low,low,project management,75378.52329897878,no,stable
+software engineer,healthcare,small,sydney,high,low,python,94838.72738947145,no,decline
+sales manager,education,medium,berlin,high,medium,marketing,55906.05973007458,no,decline
+ux designer,education,small,new york,medium,medium,communication,81549.17779189924,yes,decline
+product manager,finance,large,paris,high,medium,machine learning,114893.76092730192,yes,stable
+cybersecurity analyst,healthcare,medium,dubai,medium,medium,machine learning,51676.65640668242,no,decline
+marketing specialist,technology,medium,san francisco,medium,high,python,112524.00174378282,no,decline
+cybersecurity analyst,education,small,new york,high,high,ux/ui design,84526.07807535231,no,growth
+ai researcher,manufacturing,medium,san francisco,medium,high,marketing,99743.28880440384,no,decline
+data scientist,entertainment,medium,new york,high,medium,cybersecurity,103150.4882697022,no,decline
+product manager,technology,large,new york,medium,medium,ux/ui design,98828.42998981853,yes,stable
+ai researcher,transportation,medium,singapore,high,medium,sales,72700.98696738348,yes,stable
+sales manager,manufacturing,large,new york,high,high,machine learning,82709.01706929953,yes,growth
+marketing specialist,manufacturing,small,berlin,medium,medium,sales,60768.876454983685,no,decline
+software engineer,healthcare,medium,paris,low,low,data analysis,99835.9266317616,no,growth
+product manager,finance,large,sydney,medium,low,javascript,124041.10308031851,no,stable
+product manager,transportation,small,toronto,high,medium,project management,53511.18226647075,no,growth
+data scientist,education,medium,san francisco,low,low,marketing,74767.0818772393,yes,stable
+operations manager,healthcare,small,sydney,medium,low,ux/ui design,86364.49448234134,yes,growth
+product manager,education,medium,toronto,medium,high,machine learning,93466.82847427108,no,growth
+hr manager,healthcare,small,paris,medium,medium,sales,107583.52602868852,yes,decline
+marketing specialist,healthcare,small,paris,low,medium,communication,86956.00039284666,yes,growth
+marketing specialist,healthcare,large,san francisco,high,high,data analysis,83680.825471087,no,decline
+hr manager,finance,small,san francisco,medium,low,project management,112062.6141213948,no,decline
+ux designer,healthcare,medium,paris,medium,low,project management,103239.91134126612,no,decline
+hr manager,retail,medium,toronto,medium,medium,ux/ui design,100779.55951402197,no,decline
+hr manager,entertainment,large,new york,medium,low,marketing,92250.31423176228,no,growth
+marketing specialist,education,medium,dubai,medium,high,cybersecurity,109663.04421839718,no,stable
+cybersecurity analyst,technology,medium,london,high,high,communication,76873.81217539468,yes,stable
+marketing specialist,energy,medium,sydney,high,medium,ux/ui design,74146.11435627844,yes,stable
+operations manager,transportation,small,singapore,medium,high,sales,104922.01973738648,no,growth
+data scientist,telecommunications,small,sydney,low,high,javascript,57499.28061506184,yes,decline
+ai researcher,finance,medium,singapore,high,medium,python,91843.59019272974,no,stable
+cybersecurity analyst,technology,large,toronto,low,high,cybersecurity,83668.83295474976,no,growth
+software engineer,manufacturing,small,singapore,high,high,marketing,61884.90538694088,no,decline
+ai researcher,retail,large,san francisco,medium,high,data analysis,71374.64840567471,no,stable
+data scientist,telecommunications,medium,dubai,high,low,cybersecurity,87820.47815409301,yes,decline
+operations manager,energy,medium,dubai,medium,medium,machine learning,110679.26512998046,no,stable
+operations manager,technology,small,san francisco,high,medium,marketing,76940.84017484378,yes,stable
+software engineer,telecommunications,medium,berlin,medium,medium,javascript,114267.62799809988,no,stable
+cybersecurity analyst,technology,small,toronto,medium,low,machine learning,91263.58455113032,no,decline
+ux designer,retail,medium,berlin,medium,low,cybersecurity,116207.69404339942,no,growth
+hr manager,energy,medium,berlin,medium,medium,python,77910.16782439903,yes,decline
+cybersecurity analyst,manufacturing,small,sydney,low,low,python,89023.80823789263,no,stable
+ux designer,healthcare,small,paris,medium,medium,javascript,97369.6720667399,no,decline
+operations manager,education,small,sydney,low,low,project management,86409.79074516977,no,growth
+marketing specialist,manufacturing,medium,paris,low,high,communication,109060.48294290472,yes,decline
+data scientist,healthcare,medium,london,medium,high,data analysis,45848.72549419468,yes,growth
+software engineer,finance,large,singapore,low,medium,project management,138448.1107757988,yes,growth
+data scientist,entertainment,small,paris,high,low,python,107155.49213990325,no,decline
+sales manager,transportation,medium,san francisco,medium,low,python,86529.36341929967,yes,stable
+sales manager,transportation,medium,sydney,low,high,sales,78953.56652845311,no,growth
+cybersecurity analyst,education,small,toronto,medium,high,machine learning,72671.58777102892,yes,decline
+operations manager,energy,large,singapore,medium,low,cybersecurity,102912.30948339474,yes,growth
+operations manager,retail,small,london,medium,low,data analysis,109899.63337584709,no,stable
+hr manager,energy,large,paris,low,low,javascript,86749.477437402,yes,decline
+hr manager,retail,medium,london,high,low,cybersecurity,112139.80825957004,no,decline
+hr manager,energy,large,toronto,high,low,sales,71854.79906477756,no,decline
+marketing specialist,entertainment,medium,berlin,low,low,python,68323.78300026328,yes,stable
+ai researcher,finance,small,dubai,medium,medium,javascript,126266.82410491098,no,growth
+product manager,finance,small,toronto,low,low,python,101822.17227077084,no,decline
+ai researcher,healthcare,small,tokyo,low,high,data analysis,117936.96403626657,yes,growth
+data scientist,telecommunications,large,toronto,low,medium,machine learning,72921.20583224614,yes,growth
+ai researcher,finance,medium,london,medium,low,cybersecurity,71529.49216462541,no,stable
+marketing specialist,finance,small,san francisco,low,high,cybersecurity,82827.81361084916,yes,decline
+data scientist,manufacturing,small,sydney,medium,medium,project management,73518.82316921977,no,growth
+ai researcher,manufacturing,medium,san francisco,low,high,javascript,104107.30420456902,no,decline
+marketing specialist,healthcare,small,london,high,low,communication,74977.47886147109,yes,decline
+product manager,telecommunications,medium,sydney,low,low,sales,66566.60283865419,yes,stable
+ai researcher,education,medium,tokyo,low,low,communication,92840.30824510464,yes,decline
+marketing specialist,manufacturing,medium,dubai,high,low,project management,64200.27648349573,yes,decline
+hr manager,education,medium,singapore,medium,medium,data analysis,54010.72137049221,no,growth
+operations manager,technology,medium,london,medium,medium,sales,92665.14467722556,no,stable
+hr manager,manufacturing,large,paris,low,high,machine learning,55015.5991397958,yes,decline
+operations manager,entertainment,small,london,high,low,communication,105505.58792590846,yes,growth
+software engineer,telecommunications,large,london,medium,high,machine learning,62093.32547494408,no,stable
+software engineer,healthcare,small,sydney,low,medium,communication,45186.52427160505,no,stable
+software engineer,technology,large,new york,high,low,machine learning,84124.06699718411,no,growth
+product manager,telecommunications,medium,toronto,medium,low,communication,92891.89006592968,no,growth
+hr manager,entertainment,small,new york,medium,medium,machine learning,99829.50127363882,yes,growth
+operations manager,telecommunications,small,tokyo,high,medium,project management,93440.31398031706,no,growth
+marketing specialist,entertainment,large,paris,high,medium,marketing,68813.74757764515,no,growth
+data scientist,entertainment,large,dubai,high,medium,sales,104261.22361853208,yes,decline
+marketing specialist,education,small,berlin,high,medium,javascript,109202.77012959492,no,decline
+data scientist,energy,large,tokyo,low,low,data analysis,65884.75743088922,no,stable
+sales manager,technology,large,berlin,high,medium,ux/ui design,86379.87722680772,yes,decline
+marketing specialist,telecommunications,large,berlin,medium,low,python,84511.1994578196,yes,decline
+ai researcher,retail,medium,dubai,medium,low,javascript,94407.63165576068,yes,decline
+ai researcher,technology,medium,san francisco,low,medium,python,85901.52416451782,no,growth
+cybersecurity analyst,energy,large,new york,medium,medium,sales,88642.44455854046,no,stable
+hr manager,technology,large,london,medium,low,javascript,102836.31060483382,yes,stable
+data scientist,finance,medium,singapore,high,medium,machine learning,67722.93800797733,yes,stable
+data scientist,retail,medium,berlin,medium,medium,machine learning,104747.46270521649,no,stable
+hr manager,energy,small,paris,low,medium,ux/ui design,112822.65463062502,yes,decline
+product manager,education,small,tokyo,high,high,python,122682.69986977737,yes,decline
+cybersecurity analyst,telecommunications,medium,san francisco,high,low,data analysis,47132.65351725282,yes,growth
+product manager,transportation,large,berlin,low,high,sales,86341.96685769563,no,stable
+product manager,energy,large,san francisco,high,medium,machine learning,50697.98851292822,no,decline
+product manager,healthcare,large,san francisco,high,high,marketing,41298.72620454353,no,decline
+hr manager,telecommunications,large,berlin,low,medium,project management,92881.86095214955,no,growth
+product manager,energy,small,sydney,high,high,project management,82016.96414299277,no,growth
+ai researcher,finance,medium,toronto,low,medium,communication,95997.01903541492,no,growth
+software engineer,transportation,large,paris,low,high,data analysis,99722.55380174633,yes,decline
+sales manager,finance,small,london,medium,high,project management,114957.91916215842,no,decline
+data scientist,transportation,large,london,medium,high,communication,91078.4085061156,no,growth
+data scientist,healthcare,medium,paris,high,low,python,148467.11234638176,yes,stable
+sales manager,telecommunications,small,sydney,high,high,machine learning,96128.19709970424,no,growth
+hr manager,education,medium,london,low,low,machine learning,126849.58089134425,no,growth
+marketing specialist,finance,medium,san francisco,high,medium,marketing,43343.24398951503,yes,growth
+hr manager,finance,small,dubai,low,high,javascript,116994.7905910125,yes,growth
+data scientist,entertainment,small,tokyo,low,medium,project management,86384.7902040888,yes,decline
+data scientist,transportation,small,new york,high,medium,python,51033.05481145457,no,stable
+sales manager,manufacturing,small,london,low,high,cybersecurity,98410.9021845624,yes,growth
+product manager,telecommunications,small,paris,medium,low,project management,83940.88924031366,no,stable
+hr manager,transportation,small,dubai,high,high,data analysis,101601.06496896283,no,stable
+operations manager,entertainment,small,berlin,medium,medium,javascript,110221.52915102156,no,stable
+sales manager,technology,large,toronto,high,medium,project management,60216.99766476808,no,growth
+ai researcher,transportation,medium,paris,low,high,python,110298.37964910315,yes,decline
+data scientist,education,small,san francisco,high,low,project management,90129.58968441431,yes,growth
+sales manager,telecommunications,large,toronto,medium,low,data analysis,117056.82349386544,no,stable
+hr manager,entertainment,large,tokyo,low,medium,cybersecurity,85897.03542004264,yes,stable
+data scientist,technology,large,tokyo,high,medium,sales,80591.82214937158,no,decline
+marketing specialist,retail,medium,sydney,high,low,ux/ui design,90541.08081377904,no,growth
+sales manager,entertainment,small,singapore,high,high,cybersecurity,92037.21412759706,no,stable
+cybersecurity analyst,retail,large,sydney,medium,medium,communication,76744.30397016529,yes,decline
+data scientist,telecommunications,medium,dubai,medium,low,project management,80073.90538089433,no,stable
+hr manager,finance,medium,toronto,high,medium,machine learning,65462.48930972422,no,decline
+software engineer,entertainment,medium,singapore,low,high,marketing,81307.09820419611,yes,decline
+operations manager,healthcare,large,berlin,low,low,machine learning,103526.20119995158,yes,growth
+ux designer,retail,small,san francisco,medium,medium,cybersecurity,87252.91652187712,yes,stable
+product manager,education,large,toronto,low,high,machine learning,110181.30592094656,yes,growth
+ux designer,healthcare,large,sydney,medium,medium,python,86291.41064693853,no,stable
+hr manager,energy,small,new york,high,high,machine learning,61369.64004553371,yes,growth
+ai researcher,energy,small,singapore,medium,high,javascript,101945.49775113164,no,stable
+ai researcher,technology,small,singapore,medium,low,sales,76527.53717933195,yes,growth
+software engineer,finance,medium,san francisco,high,high,project management,85332.65422472931,yes,decline
+product manager,telecommunications,small,london,low,medium,machine learning,114751.44094968236,yes,stable
+cybersecurity analyst,entertainment,large,tokyo,medium,high,data analysis,66782.59080556972,yes,stable
+software engineer,manufacturing,small,tokyo,medium,high,sales,93294.8757492877,yes,decline
+ux designer,education,large,new york,high,low,sales,89189.63299928416,yes,growth
+software engineer,retail,medium,dubai,low,high,machine learning,104018.51430874206,no,stable
+ux designer,telecommunications,large,dubai,medium,high,sales,107103.06730964044,yes,stable
+data scientist,healthcare,large,berlin,high,medium,marketing,95276.78008497784,yes,growth
+ai researcher,energy,small,toronto,medium,low,machine learning,82792.507068392,yes,decline
+data scientist,education,small,paris,high,low,python,99467.4500805192,yes,growth
+operations manager,manufacturing,large,london,low,low,cybersecurity,116713.11794289124,no,growth
+product manager,entertainment,small,sydney,low,high,javascript,89454.20120720599,yes,growth
+cybersecurity analyst,technology,medium,paris,low,low,ux/ui design,84654.87771153946,yes,stable
+ux designer,manufacturing,medium,paris,low,high,communication,97763.4051533598,yes,decline
+cybersecurity analyst,education,small,singapore,medium,high,sales,90774.54040739224,yes,decline
+ux designer,manufacturing,medium,new york,medium,medium,python,63245.81152164402,no,growth
+hr manager,education,small,tokyo,low,medium,project management,94786.61600794963,yes,stable
+software engineer,education,large,berlin,low,medium,project management,63064.75182472472,no,growth
+operations manager,transportation,large,dubai,low,medium,communication,97489.6129281689,yes,stable
+ai researcher,retail,medium,new york,medium,medium,javascript,74057.14551186866,no,stable
+ux designer,energy,small,singapore,low,high,sales,90737.49608372692,no,stable
+cybersecurity analyst,transportation,small,sydney,low,high,marketing,97811.87812398472,yes,stable
+operations manager,entertainment,medium,berlin,low,low,communication,139078.06691887142,yes,decline
+marketing specialist,transportation,large,singapore,high,high,javascript,104854.99923573848,no,stable
+marketing specialist,finance,medium,tokyo,low,high,sales,117295.97619484668,no,stable
+data scientist,finance,large,tokyo,high,medium,python,127434.9563738785,yes,growth
+ai researcher,energy,small,tokyo,high,high,cybersecurity,99785.1183399889,no,growth
+hr manager,manufacturing,large,new york,low,medium,marketing,95713.796005344,no,decline
+cybersecurity analyst,retail,medium,new york,high,low,ux/ui design,68665.57782347569,no,growth
+software engineer,energy,small,dubai,low,low,project management,87667.40135199211,yes,stable
+software engineer,education,medium,dubai,medium,high,data analysis,75538.24540728275,no,growth
+cybersecurity analyst,healthcare,medium,sydney,medium,low,python,81978.82299751228,no,decline
+product manager,retail,large,berlin,medium,high,project management,127413.26752384935,no,growth
+hr manager,retail,medium,san francisco,medium,low,machine learning,92292.4301839998,yes,growth
+operations manager,education,large,san francisco,high,medium,data analysis,72482.00844567783,yes,decline
+ux designer,education,small,singapore,low,medium,project management,117490.66909382609,no,decline
+product manager,technology,large,tokyo,low,medium,javascript,109105.50952474898,yes,stable
+ux designer,energy,small,berlin,low,medium,marketing,110153.06985200792,no,growth
+ux designer,education,large,paris,medium,high,project management,49877.3959379521,yes,stable
+product manager,finance,medium,new york,medium,low,ux/ui design,128973.41915442972,yes,growth
+data scientist,entertainment,large,toronto,low,high,cybersecurity,78829.70515812226,no,growth
+marketing specialist,healthcare,large,london,medium,medium,javascript,105559.0954558551,yes,stable
+ux designer,energy,small,sydney,low,high,python,140475.99581234064,yes,growth
+product manager,telecommunications,medium,tokyo,low,low,python,133106.65496381235,yes,growth
+product manager,finance,large,tokyo,low,high,python,70448.75749054627,no,growth
+sales manager,manufacturing,medium,tokyo,low,low,python,61109.65325995454,yes,decline
+data scientist,education,large,new york,low,high,cybersecurity,118606.93197695856,yes,stable
+ai researcher,telecommunications,large,new york,low,low,project management,92841.11623188,no,decline
+sales manager,education,medium,london,low,low,sales,79982.3711739584,yes,stable
+sales manager,retail,large,paris,medium,medium,project management,102424.37093878096,yes,stable
+cybersecurity analyst,finance,medium,berlin,low,low,machine learning,86742.40845081118,yes,growth
+marketing specialist,retail,large,tokyo,low,medium,marketing,104026.48274097488,yes,stable
+product manager,technology,small,san francisco,medium,medium,data analysis,91339.63615637466,yes,decline
+marketing specialist,retail,medium,dubai,medium,medium,sales,104447.75856656334,no,decline
+hr manager,technology,large,san francisco,medium,high,sales,72109.34621727222,no,decline
+cybersecurity analyst,technology,large,singapore,low,high,project management,118489.24026265267,yes,stable
+ai researcher,telecommunications,small,san francisco,high,high,sales,103952.46741464877,yes,decline
+marketing specialist,education,medium,singapore,high,high,communication,102925.94738807144,yes,stable
+software engineer,manufacturing,large,toronto,medium,low,communication,67646.60145976013,no,decline
+ux designer,retail,small,dubai,high,low,machine learning,123992.64833288494,no,decline
+hr manager,finance,large,san francisco,medium,high,data analysis,89725.67801267463,yes,stable
+data scientist,technology,medium,toronto,low,low,ux/ui design,104560.97724859684,yes,decline
+ai researcher,education,large,sydney,high,low,cybersecurity,83543.51072506783,no,growth
+hr manager,healthcare,large,berlin,low,medium,project management,95217.78129364197,yes,stable
+ux designer,energy,large,toronto,high,medium,cybersecurity,95942.54704238808,no,stable
+cybersecurity analyst,telecommunications,large,berlin,low,medium,ux/ui design,33601.38135993158,no,stable
+ux designer,manufacturing,small,san francisco,high,medium,project management,101648.96249309662,yes,growth
+sales manager,transportation,small,paris,low,low,project management,129306.82923444168,no,stable
+ux designer,telecommunications,medium,toronto,low,high,data analysis,100795.60517983914,yes,decline
+sales manager,healthcare,small,dubai,high,low,cybersecurity,70845.83502220524,yes,decline
+cybersecurity analyst,energy,small,san francisco,low,low,communication,102999.23132307774,yes,decline
+operations manager,healthcare,medium,tokyo,low,low,python,111189.61060346678,yes,stable
+sales manager,retail,small,new york,low,medium,cybersecurity,100249.33032380774,yes,decline
+data scientist,technology,small,toronto,high,medium,marketing,88517.45787139912,yes,stable
+ux designer,manufacturing,medium,dubai,high,medium,marketing,85157.01548352139,no,decline
+ux designer,entertainment,medium,sydney,low,high,project management,85073.80489266386,no,growth
+data scientist,technology,medium,tokyo,low,low,python,103955.53802022424,no,growth
+software engineer,entertainment,large,sydney,high,high,javascript,61857.52009880744,no,growth
+product manager,energy,large,san francisco,high,medium,ux/ui design,82562.53678289187,yes,growth
+operations manager,education,medium,new york,low,high,machine learning,121912.19646021895,no,stable
+ai researcher,transportation,medium,toronto,low,low,python,122683.90533154352,no,decline
+sales manager,finance,medium,toronto,low,low,machine learning,60437.05824396676,no,growth
+data scientist,technology,large,paris,medium,medium,cybersecurity,67371.72777472783,yes,stable
+cybersecurity analyst,manufacturing,large,paris,high,medium,cybersecurity,84587.58840944126,no,growth
+sales manager,healthcare,small,san francisco,medium,high,machine learning,107851.79034228704,yes,growth
+product manager,manufacturing,small,san francisco,high,medium,ux/ui design,53450.51291894019,no,stable
+cybersecurity analyst,energy,medium,new york,high,medium,python,88903.82730165044,yes,stable
+hr manager,entertainment,large,paris,high,low,javascript,80516.4168684071,yes,decline
+ux designer,healthcare,large,dubai,high,medium,project management,116519.29348570466,no,decline
+hr manager,finance,large,dubai,high,medium,data analysis,56461.83052061492,yes,growth
+sales manager,finance,medium,new york,high,low,cybersecurity,91850.81230987245,yes,growth
+product manager,technology,small,dubai,high,low,marketing,82127.81125302812,no,decline
+operations manager,energy,medium,singapore,medium,high,ux/ui design,119395.97852554575,no,decline
+sales manager,education,small,berlin,low,medium,data analysis,101953.052927065,no,stable
+data scientist,energy,small,new york,low,low,javascript,78283.6868148453,yes,decline
+marketing specialist,entertainment,medium,new york,medium,high,sales,107067.72886658164,yes,decline
+sales manager,manufacturing,small,london,medium,high,project management,82223.42293382852,yes,growth
+ux designer,finance,small,tokyo,medium,medium,cybersecurity,109986.59422479507,no,decline
+ux designer,manufacturing,large,tokyo,medium,medium,project management,85258.46018228843,yes,growth
+sales manager,manufacturing,small,singapore,high,high,data analysis,111093.33157537528,yes,decline
+cybersecurity analyst,manufacturing,medium,paris,low,low,project management,98721.639102545,yes,stable
+marketing specialist,finance,medium,san francisco,high,high,sales,155209.82161382848,yes,decline
+data scientist,telecommunications,small,san francisco,low,medium,data analysis,88942.07989167991,yes,decline
+sales manager,retail,large,sydney,low,low,cybersecurity,97657.24583242898,yes,decline
+cybersecurity analyst,entertainment,large,singapore,medium,low,python,80411.50516568137,yes,growth
+ux designer,telecommunications,small,new york,high,high,marketing,90053.70681509557,no,stable
+ux designer,entertainment,small,singapore,medium,medium,data analysis,35963.29731701118,no,decline
+product manager,healthcare,medium,singapore,high,high,communication,99311.68033082064,no,growth
+sales manager,energy,small,singapore,low,high,sales,116857.48425898825,yes,stable
+marketing specialist,energy,large,tokyo,medium,high,data analysis,97932.60009198709,yes,growth
+software engineer,transportation,small,singapore,medium,low,data analysis,63722.77084045245,no,growth
+marketing specialist,energy,medium,berlin,low,low,communication,73964.25694581997,yes,stable
+ux designer,finance,medium,san francisco,low,medium,cybersecurity,41396.15745687459,no,decline
+ux designer,education,medium,sydney,low,medium,data analysis,109578.48013730848,yes,growth
+hr manager,technology,medium,berlin,medium,high,marketing,69869.7341458084,yes,growth
+ux designer,transportation,medium,sydney,high,high,project management,89425.82819575544,no,decline
+data scientist,technology,small,london,medium,high,cybersecurity,86925.2485534556,no,decline
+ai researcher,entertainment,small,sydney,high,medium,marketing,119754.54071316532,no,stable
+sales manager,technology,small,san francisco,medium,low,cybersecurity,91705.62635931476,no,stable
+marketing specialist,technology,small,san francisco,medium,low,marketing,106177.8584021202,no,stable
+ai researcher,transportation,medium,singapore,low,high,sales,100929.27528295324,yes,decline
+cybersecurity analyst,healthcare,large,toronto,high,high,marketing,117188.22839922798,yes,growth
+software engineer,manufacturing,small,london,medium,high,machine learning,85217.52610994082,yes,growth
+data scientist,energy,large,new york,medium,high,marketing,127392.30661009034,no,stable
+marketing specialist,energy,small,dubai,low,medium,python,50286.7568720137,no,decline
+ai researcher,finance,small,sydney,low,low,python,107149.46996002473,no,growth
+software engineer,transportation,large,toronto,high,high,ux/ui design,72667.60782671736,no,stable
+hr manager,finance,medium,singapore,medium,medium,machine learning,80145.00894440095,no,growth
+data scientist,education,small,tokyo,high,high,machine learning,101388.28533802072,no,growth
+data scientist,education,small,new york,medium,high,project management,101228.04099695486,yes,decline
+hr manager,finance,small,paris,high,low,machine learning,102128.56027380144,yes,decline
+sales manager,transportation,large,toronto,low,high,project management,62276.84111789524,yes,growth
+hr manager,finance,medium,tokyo,medium,low,ux/ui design,118980.6046255848,yes,stable
+data scientist,energy,large,london,high,low,ux/ui design,71987.05763544649,yes,decline
+data scientist,telecommunications,large,singapore,low,low,sales,74654.25819549602,no,growth
+ai researcher,retail,medium,new york,low,medium,python,102757.93476333655,no,decline
+ux designer,technology,large,new york,high,medium,marketing,84265.57650477519,no,decline
+software engineer,retail,medium,new york,medium,low,marketing,96165.21681124983,no,decline
+hr manager,transportation,small,london,medium,high,communication,46867.98606734424,no,growth
+software engineer,retail,medium,sydney,low,low,communication,95686.48899038463,no,stable
+hr manager,education,small,paris,medium,high,javascript,94356.6375902443,yes,stable
+cybersecurity analyst,entertainment,large,london,medium,low,cybersecurity,79802.82924471433,no,stable
+data scientist,technology,large,dubai,medium,high,sales,48518.48080470421,no,decline
+ux designer,manufacturing,small,paris,low,medium,javascript,85743.8347703679,no,growth
+ai researcher,transportation,large,san francisco,high,high,javascript,89252.52280402774,no,decline
+ux designer,technology,medium,singapore,medium,low,data analysis,82655.4201933901,yes,stable
+ux designer,retail,small,london,low,medium,data analysis,53276.51071135004,yes,stable
+ux designer,education,large,tokyo,low,high,javascript,121894.68014633832,no,growth
+software engineer,healthcare,small,paris,high,high,machine learning,77222.76944111254,yes,decline
+hr manager,telecommunications,medium,dubai,medium,high,cybersecurity,85555.90674154198,yes,stable
+operations manager,manufacturing,medium,san francisco,medium,high,sales,41810.51357563419,no,growth
+cybersecurity analyst,telecommunications,large,sydney,high,high,javascript,121897.10697396414,no,decline
+marketing specialist,technology,medium,tokyo,high,medium,marketing,80669.00136531888,no,decline
+ux designer,education,small,paris,low,medium,cybersecurity,91969.25634148406,no,stable
+sales manager,education,medium,singapore,low,medium,data analysis,112414.74889633304,no,stable
+software engineer,retail,small,tokyo,high,medium,marketing,76473.91590566748,yes,decline
+ai researcher,energy,small,san francisco,medium,low,data analysis,109264.89974773087,no,decline
+marketing specialist,retail,medium,tokyo,low,medium,data analysis,48773.49088117717,no,stable
+operations manager,energy,large,berlin,low,high,cybersecurity,101019.73315142626,no,decline
+sales manager,energy,medium,toronto,medium,high,data analysis,121444.84333039304,yes,stable
+operations manager,manufacturing,small,sydney,low,medium,ux/ui design,78391.66305563941,no,decline
+marketing specialist,retail,small,san francisco,medium,high,python,112377.63240596798,no,stable
+ux designer,healthcare,medium,tokyo,medium,medium,ux/ui design,126678.45304387566,no,growth
+sales manager,finance,large,toronto,medium,high,python,84903.16323891962,yes,stable
+operations manager,finance,large,toronto,high,low,communication,83249.43428300279,no,stable
+ai researcher,retail,small,tokyo,high,low,communication,72034.12508335392,no,growth
+hr manager,retail,small,singapore,high,medium,data analysis,79805.39689629733,no,decline
+data scientist,telecommunications,large,berlin,medium,medium,sales,73692.80219454759,yes,growth
+hr manager,manufacturing,medium,london,medium,medium,sales,72017.77803145545,no,stable
+marketing specialist,retail,small,berlin,high,high,python,113976.70593422712,no,decline
+software engineer,telecommunications,small,tokyo,low,medium,marketing,74201.47949423481,no,growth
+data scientist,energy,large,sydney,medium,low,cybersecurity,95170.43829439246,yes,decline
+cybersecurity analyst,education,medium,london,low,high,data analysis,90764.66870432477,no,decline
+ai researcher,education,large,san francisco,low,medium,cybersecurity,119961.89125142244,no,growth
+cybersecurity analyst,energy,medium,berlin,medium,high,ux/ui design,79936.87535889974,no,decline
+sales manager,transportation,medium,tokyo,medium,high,sales,97622.96093308643,yes,growth
+data scientist,telecommunications,medium,berlin,low,medium,machine learning,105821.3940455222,yes,stable
+cybersecurity analyst,telecommunications,small,london,low,high,ux/ui design,119794.99214641162,no,decline
+cybersecurity analyst,energy,large,dubai,high,low,ux/ui design,79644.93309909466,yes,stable
+operations manager,healthcare,large,paris,high,low,python,77642.1506253524,yes,stable
+hr manager,entertainment,medium,berlin,medium,high,project management,68764.37892079895,yes,decline

@@ -1,0 +1,3308 @@
+[
+  {
+    "salary_max": 118634.95,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -90.32592,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwOTQ5OTc4MiIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.682OSSAYqz0inmhjyzvu6TpxTM-mlaCVokiVSvg2mwI",
+    "location": {
+      "area": [
+        "US",
+        "Missouri",
+        "Saint Louis County",
+        "Kinloch"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Kinloch, Saint Louis County"
+    },
+    "company": {
+      "display_name": "The Boeing Company",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5609499782",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "latitude": 38.73804,
+    "description": "Job Description At Boeing, we innovate and collaborate to make the world a better place. We're committed to fostering an environment for every teammate that's welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us. The Boeing Company is seeking a Software Engineer - Artificial Intelligence to join the Air Proprietary 2 (AP2) team located in Berkeley, MO . This position will focus on supporting the Boeing Defense, Space & Security (BDS) busi…",
+    "salary_min": 118634.95,
+    "created": "2026-02-01T19:37:39Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5609499782?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=2A9D919EC701D904F7E9E18A9810301BC489628A",
+    "title": "Software Engineer-Artificial Intelligence (Artificial Intelligence)"
+  },
+  {
+    "latitude": 47.602485,
+    "salary_min": 164538.45,
+    "description": "Artificial Intelligence Strategist Location: US About the Role The AI Strategist plays a pivotal role in shaping Cognizant's AI portfolio by designing high impact AI use cases, building compelling value propositions, and enabling early-stage client engagement. Sitting at the intersection of business design, AI capability, and industry needs, this role transforms opportunity spaces into structured, scalable, commercially strong AI offerings that drive growth for the AI Market Unit. Impact AI use…",
+    "created": "2026-02-06T23:29:04Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5618584282?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=860CE5089C3BA4CF32E41F822BF72ABE1A3BB10E",
+    "title": "Artificial Intelligence Strategist",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 164538.45,
+    "longitude": -122.326064,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYxODU4NDI4MiIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.CZo9lincygSQyyaTSvIzK4hsk2qA-3GlL5ITmLnF97g",
+    "location": {
+      "display_name": "International, King County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Washington",
+        "King County",
+        "International"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cognizant"
+    },
+    "id": "5618584282",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5502425839?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=E1D803B4AB6EAFDC5B38ECBC12083E5C61E775E8",
+    "title": "Artificial Intelligence Leader",
+    "latitude": 41.93916,
+    "created": "2025-11-18T14:56:59Z",
+    "salary_min": 114973.64,
+    "description": "The Artificial Intelligence Leader at Sensata will lead our enterprise-wide AI strategy and initiatives, driving innovation and transformation across all business functions-including engineering, manufacturing, supply chain, commercial, and corporate operations-within a global manufacturing and technology organization. This role is responsible for shaping and executing AI strategies that deliver scalable solutions and measurable impact, leveraging industrial and enterprise data to unlock new ef…",
+    "id": "5502425839",
+    "location": {
+      "area": [
+        "US",
+        "Massachusetts",
+        "Bristol County",
+        "Attleboro"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Attleboro, Bristol County"
+    },
+    "company": {
+      "display_name": "Sensata Technologies, Inc.",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "longitude": -71.3028,
+    "salary_max": 114973.64,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTAyNDI1ODM5In0.f8sQWbrQBSC24nXadhnU-EN-ouNP3W7_o0G0oYJGVVY"
+  },
+  {
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5612610378",
+    "location": {
+      "area": [
+        "US",
+        "Indiana",
+        "Hamilton County",
+        "Carmel"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Carmel, Hamilton County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Allegion"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjEyNjEwMzc4In0.e-QtgwiPwWz1nCy0-6k8B2EgfdGHWfVxa24G_dycIL0",
+    "longitude": -86.17,
+    "salary_max": 109078.59,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "title": "Artificial Intelligence Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5612610378?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=7F57A4FAF7BDE211739B6DA63DD2279F10A26295",
+    "created": "2026-02-03T19:37:56Z",
+    "description": "Creating Peace of Mind by Pioneering Safety and Security _At Allegion, we help keep the people you know and love safe and secure where they live, work and visit. With more than 30 brands, 12,000 employees globally and products sold in 130 countries, we specialize in security around the doorway and beyond. Additionally, in 2024 we were awarded the Gallup Exceptional Workplace Award, which recognizes the most engaged workplace cultures in the world._ We are seeking an Applied AI Engineer with str…",
+    "salary_min": 109078.59,
+    "latitude": 39.97
+  },
+  {
+    "longitude": -76.533695,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 189153.53,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYyNjYzNDIwOSIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.AFayLM8RISl1__5tDaI0P6yypX-CPBibsUCjfEwSgAY",
+    "id": "5626634209",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Shield Consulting Solutions"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Annapolis"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Annapolis, Anne Arundel County"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "latitude": 38.982355,
+    "created": "2026-02-12T15:52:40Z",
+    "description": "Active TS/SCI w/Polygraph REQUIRED Please do not apply if you do not currently possess this level of clearance.  Telework: Up to 2 days per week Job Description: * The AI Engineer will work closely with system and software engineers to design, prototype, and integrate AI advancements into the existing RAD architecture. * This is a transformative position focused on building solutions that augment human intelligence, streamline workflows, and enhance the overall effectiveness of intelligence ope…",
+    "salary_min": 189153.53,
+    "redirect_url": "https://www.adzuna.com/land/ad/5626634209?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=D68FFC8320134665892A9D21F2EDD4623B4CE4A7",
+    "title": "Artificial Intelligence Engineer with Security Clearance"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5505984989?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=69755B1CE044CCF81D8E1A3C7A3C285B4AF80913",
+    "title": "Research Intern - Artificial Intelligence",
+    "latitude": 47.6742,
+    "created": "2025-11-20T15:14:09Z",
+    "description": "Overview Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized scientists and engineers, who pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including computing, computer science, mathematics, economics, physics, healthcare, and the environment. Microsoft Research Asia - Vancouver lab (https://www.microsoft.com/en-us/resea…",
+    "salary_min": 74324.37,
+    "id": "5505984989",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Microsoft Corporation"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Washington",
+        "King County",
+        "Redmond"
+      ],
+      "display_name": "Redmond, King County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -122.114799,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "scientific-qa-jobs",
+      "label": "Scientific & QA Jobs"
+    },
+    "salary_max": 74324.37,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTA1OTg0OTg5In0.1nd6lHgr6RVMhqE9G0oaU3VwOy3n_xwF80eNP7d0O7U"
+  },
+  {
+    "id": "5618319025",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "XPO, Inc."
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Boston, Suffolk County",
+      "area": [
+        "US",
+        "Massachusetts",
+        "Suffolk County",
+        "Boston"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -71.065917,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 125650.98,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYxODMxOTAyNSIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.eiGkLG6_fHjYCBSm0-uySq_ZNKSW6j9ADo8arwx8310",
+    "redirect_url": "https://www.adzuna.com/land/ad/5618319025?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=DA64B9CEE11925A6FD4625D547AAE852910A6CAA",
+    "title": "Director, Artificial Intelligence - Hybrid",
+    "latitude": 42.356644,
+    "created": "2026-02-06T20:02:08Z",
+    "salary_min": 125650.98,
+    "description": "Director, Artificial Intelligence - Hybrid Requisition Id: 377755 Business Unit: Corporate Location: Boston, MA, US, 02111 What you'll need to succeed as a Director, Artificial Intelligence at XPO: Minimum Qualifications:  Bachelor's degree or equivalent related work or military experience  7 years of data science, operations research and/or software engineering experience in Artificial Intelligence and Machine Learning with a proven track record of building and deploying AI models.  5 years of…"
+  },
+  {
+    "contract_time": "full_time",
+    "latitude": 37.640644,
+    "created": "2026-02-14T09:47:33Z",
+    "description": "Jump start your career at Equity Bank! We are currently hiring energetic, team oriented, and community focused individuals to join our team! With a team of best-in-class customer service experts, youll help to build and expand on client relationships, deliver the banking products and services that meet the unique and individual needs of clients, and create and uphold an atmosphere of superior experience and service. At Equity Bank we’ll help you invest in your community through volunteer opport…",
+    "id": "5629612051",
+    "location": {
+      "area": [
+        "US",
+        "Kansas",
+        "Butler County",
+        "Andover"
+      ],
+      "display_name": "Andover, Butler County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Equity Bancshares, Inc."
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "longitude": -97.166562,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "redirect_url": "https://www.adzuna.com/land/ad/5629612051?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=8AC02F6167CF8C41EBA09A58C7467D6FBF4B12E9",
+    "title": "Director, Data & Artificial Intelligence",
+    "salary_min": 129598.78,
+    "salary_max": 129598.78,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjI5NjEyMDUxIn0.sQqEdK7vCMPDBKPE8vCd_b4yhGtjhZe6eYKY5iJgBb8"
+  },
+  {
+    "created": "2025-12-09T19:01:33Z",
+    "salary_min": 121498.23,
+    "description": "Artificial Intelligence Engineering Manager Charlotte, North Carolina;Addison, Texas To proceed with your application, you must be at least 18 years of age. Acknowledge Refer a friend To proceed with your application, you must be at least 18 years of age. Acknowledge (https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Artificial-Intelligence-Engineering-Manager\\_25047779) Job Description: At Bank of America, we are guided by a common purpose to help make financial lives better through t…",
+    "latitude": 35.21514,
+    "title": "Artificial Intelligence Engineering Manager",
+    "redirect_url": "https://www.adzuna.com/land/ad/5535409547?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=8C2DEA4DC430993449F7C7B2149A37750C06D8A5",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNTQwOTU0NyIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.b4uMu0rHoyMx3cWGIR9_bnI2rEC6kDSihs61Bsts9C4",
+    "longitude": -80.82779,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 121498.23,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5535409547",
+    "location": {
+      "area": [
+        "US",
+        "North Carolina",
+        "Mecklenburg County",
+        "Charlotte"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Charlotte, Mecklenburg County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bank of America"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjE5OTA3Nzc1In0.oX6xAXG7NnF_71kPAZ875a5MysMwyE65IQO9L-0gco0",
+    "longitude": -90.45234,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 171350.9,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5619907775",
+    "location": {
+      "area": [
+        "US",
+        "Missouri",
+        "Saint Louis County",
+        "Westwood"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Westwood, Saint Louis County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Cushman & Wakefield"
+    },
+    "created": "2026-02-07T19:49:58Z",
+    "description": "Job Title Artificial Intelligence Lead (Engineer) Job Description Summary The AI Strategic Engineering Specialist is a visionary technologist responsible for architecting, engineering, and operationalizing next generation AI systems that transform how C&W supports Global Occupier clients. This role sits at the intersection of advanced AI/ML engineering, real estate domain strategy, data platform architecture, and product innovation, owning the full lifecycle of intelligent automation and decisi…",
+    "salary_min": 171350.9,
+    "latitude": 38.65548,
+    "title": "Artificial Intelligence Lead (Engineer)",
+    "redirect_url": "https://www.adzuna.com/land/ad/5619907775?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=769D47F0478A6EB6899EA32F09AE611E369D9303"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTI4MjI1NTIyIn0.Jnyyod5X-vmMiA4zIxzC1EH1At0NyfcAmK0MUhjDi50",
+    "salary_max": 256891.84,
+    "category": {
+      "label": "Consultancy Jobs",
+      "tag": "consultancy-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -89.945392,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Cloverdale, Shelby County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Tennessee",
+        "Shelby County",
+        "Cloverdale"
+      ]
+    },
+    "company": {
+      "display_name": "CBRE",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5528225522",
+    "salary_min": 256891.84,
+    "description": "About The Role: CBRE is seeking an experienced and results-driven Project Manager to join CBRE's Business Transformation Office (BTO). This role belongs to the Project Management Office (PMO) and Change Management Team, one of the core Capabilities Teams, working alongside Business Process Transformation and AI Implementation. A CBRE Project Manager will lead strategic transformation initiatives, including AI-driven projects, and collaborate closely with senior stakeholders and cross-functional…",
+    "created": "2025-12-04T15:23:03Z",
+    "latitude": 35.110055,
+    "title": "Project Manager - Artificial Intelligence",
+    "redirect_url": "https://www.adzuna.com/land/ad/5528225522?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=E49F2B1203BABDCE94758266FA261496D75FFDA6"
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "California",
+        "Orange County",
+        "Lake Forest"
+      ],
+      "display_name": "Lake Forest, Orange County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "AVEVA"
+    },
+    "id": "5401626670",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "category": {
+      "tag": "graduate-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Graduate Jobs"
+    },
+    "salary_max": 159047.67,
+    "longitude": -117.66912,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NDAxNjI2NjcwIn0.zUL4Ny_Kwqp7d7wv0Pz11tLKiJ9t7OKg4aiG_C02R9M",
+    "redirect_url": "https://www.adzuna.com/land/ad/5401626670?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=49AA129359B1ED507A5FD450512583903DF2F976",
+    "title": "Artificial Intelligence Graduate- US",
+    "latitude": 33.64578,
+    "description": "AVEVA is a global leader in industrial software. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life - such as energy, infrastructure, chemicals and minerals - safely, efficiently and more sustainably. We're the first software business in the world to have our sustainability targets validated by the SBTi, and we've been recognized for the transparency and ambition of our commitment to diversity, equity, and inclusion. We've also recently been named …",
+    "salary_min": 159047.67,
+    "created": "2025-09-16T14:13:20Z"
+  },
+  {
+    "latitude": 40.755381,
+    "created": "2025-12-31T19:31:53Z",
+    "salary_min": 130100.56,
+    "description": "Introduction We are seeking a highly skilled Data Scientist to join our team in the AI industry. This role involves leveraging advanced analytics, machine learning, and statistical modeling to extract insights from large datasets and develop innovative AI-driven solutions. The ideal candidate will combine strong technical expertise with a passion for solving complex problems and driving data-informed decision-making. Your role and responsibilities * Design, develop, and implement machine learni…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5561765432?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=1B5CE89C26C5B1394558D81C709EC0E46EFF9952",
+    "title": "Data Scientist - Artificial Intelligence",
+    "longitude": -73.978504,
+    "salary_max": 130100.56,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTYxNzY1NDMyIn0.snsbmUMCr4XhL2-5iwSDne0FWDzK5AtxQXDdYq5wFfI",
+    "id": "5561765432",
+    "company": {
+      "display_name": "IBM",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Grand Central, Manhattan",
+      "area": [
+        "US",
+        "New York",
+        "New York City",
+        "Manhattan",
+        "Grand Central"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjA4MDMzMDgwIn0.tOkAGojpgwnZnIxG05ygSJpvR9HIF5Kk3yJF61fa3zw",
+    "longitude": -73.347858,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 116490,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5608033080",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Westport, Fairfield County",
+      "area": [
+        "US",
+        "Connecticut",
+        "Fairfield County",
+        "Westport"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Robert Half"
+    },
+    "created": "2026-01-31T19:38:37Z",
+    "salary_min": 116490,
+    "description": "Description We are looking for a talented Systems Integration & AI Automation Specialist to join our team in Westport, Connecticut. In this role, you will design, implement, and optimize advanced AI solutions and system integrations to drive operational efficiency and enhance business processes. You will collaborate with cross-functional teams to identify opportunities for automation and AI enablement, ensuring scalable and impactful results. Responsibilities: - Develop and implement AI-driven …",
+    "latitude": 41.142524,
+    "title": "Artificial Intelligence (AI) Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5608033080?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=B0EFB253A85E51FC3001A5AD2FF98C3586A305D1"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Avon, Stearns County",
+      "area": [
+        "US",
+        "Minnesota",
+        "Stearns County",
+        "Avon"
+      ]
+    },
+    "company": {
+      "display_name": "Robert Half",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5627025444",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_max": 88808.23,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -94.445348,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYyNzAyNTQ0NCIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.c7_SDhZTGPmo5VW-H_Yh6frI0RZdmGiL1zucOA2qJvY",
+    "redirect_url": "https://www.adzuna.com/land/ad/5627025444?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=C75C9206387D9536819AA34015FAA24206145865",
+    "title": "Artificial Intelligence (AI) Engineer",
+    "latitude": 45.626297,
+    "salary_min": 88808.23,
+    "description": "Description We are looking for an AI Engineer to join our team. In this role, you will contribute to the development and implementation of AI and Machine Learning solutions that optimize renewable energy projects. You will work on creating scalable models, applications, and workflows that drive data-driven decision-making across the organization while adhering to established engineering standards and practices. Responsibilities: - Develop, test, and deploy AI/ML models and applications to enhan…",
+    "created": "2026-02-12T20:28:11Z"
+  },
+  {
+    "title": "Research Associate Professor/Research Professor & Assistant Director, Artificial Intelligence",
+    "redirect_url": "https://www.adzuna.com/land/ad/5624074138?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=10BB1B469D095867A2B6D94511287C2ACEF015F8",
+    "created": "2026-02-11T05:19:11Z",
+    "salary_min": 116518.89,
+    "description": "Job Description Job Description Job Title Research Associate Professor/Research Professor & Assistant Director, Artificial Intelligence Agency Prairie View A&M University Department Cooperative Agricultural Research Center Proposed Minimum Salary Commensurate Job Location Prairie View, Texas Job Type Faculty Job Description The Cooperative Agricultural Research Center (CARC) at Prairie View A&M University seeks qualified candidates for the Research Associate Professor or Professor and AI in Agr…",
+    "latitude": 30.093274,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5624074138",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Prairie View A&M University"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Texas",
+        "Waller County",
+        "Prairie View"
+      ],
+      "display_name": "Prairie View, Waller County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYyNDA3NDEzOCIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.XuHS4wqp1f99AoD5AQTSM8swI44YqICTGfE6Rg0jnXc",
+    "longitude": -95.987734,
+    "salary_max": 116518.89,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "scientific-qa-jobs",
+      "label": "Scientific & QA Jobs"
+    }
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Savage, Anne Arundel County",
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Savage"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Avid Technology Professionals"
+    },
+    "id": "5600836331",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_max": 120576.29,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -76.799422,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjAwODM2MzMxIn0.-EFOdGoejGy5IVLKyqAzwIE8kVkhW1dnWenXZEJGX8c",
+    "redirect_url": "https://www.adzuna.com/land/ad/5600836331?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=D35818D614424285093B2E03BF86999597A5228F",
+    "title": "Artificial Intelligence/Machine Learning 2 with Security Clearance",
+    "latitude": 39.13205,
+    "salary_min": 120576.29,
+    "description": "Required: Five (5) years experience in applied machine learning in programs and contracts of similar scope, type, and complexity is required. A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning from an accredited college or university. 5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree. Experience with standard machine language frameworks, e.g. Pytorch, Ten…",
+    "created": "2026-01-26T05:07:57Z"
+  },
+  {
+    "id": "5596889523",
+    "location": {
+      "display_name": "Annapolis, Anne Arundel County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Annapolis"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Wyetech, LLC"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "longitude": -76.533695,
+    "salary_max": 209283.84,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTk2ODg5NTIzIn0.aXLHh-MkL_-ifuwuEex9jj3uO2a9I09YX3DBJcMPIuM",
+    "redirect_url": "https://www.adzuna.com/land/ad/5596889523?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=FEFB4FCCB366A84A639539331937C2634366D062",
+    "title": "Artificial Intelligence/Machine 2 with Security Clearance",
+    "latitude": 38.982355,
+    "created": "2026-01-23T00:31:32Z",
+    "description": "At Wyetech, you'll be at the center of an award-winning corporate culture, breaking technological barriers and solving real-world problems for our federal government customers. We are committed to hiring the best of the best, and in return, we offer a world-class, truly unique employee experience that is rare within our industry. The Artificial Intelligence/Machine Learning (AI/ML) Engineer designs, creates, tests, and productizes AI/ML algorithms to solve business challenges. The AI/ML models …",
+    "salary_min": 209283.84
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 231210.7,
+    "longitude": -76.533695,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjAyNzk2MzA3In0.pZMTnPxoOISnNggystOaHjTPXi0yj-5hgS6DSfXKOKE",
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Annapolis"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Annapolis, Anne Arundel County"
+    },
+    "company": {
+      "display_name": "Wyetech, LLC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5602796307",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "latitude": 38.982355,
+    "salary_min": 231210.7,
+    "description": "At Wyetech, you'll be at the center of an award-winning corporate culture, breaking technological barriers and solving real-world problems for our federal government customers. We are committed to hiring the best of the best, and in return, we offer a world-class, truly unique employee experience that is rare within our industry. We are seeking an AI/ML Level 1 Engineer, responsible for building, training, fine-tuning, and evaluating advanced language models. The ideal candidate will have hands…",
+    "created": "2026-01-28T00:22:49Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5602796307?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=896F6CCA81A70561D83D944350A05BC883EA029C",
+    "title": "Artificial Intelligence/Machine 1 with Security Clearance"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5616510774?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=8352ABCE0DFA0184142304F8D11CE84F86021963",
+    "title": "Artificial Intelligence Data Systems Intern",
+    "latitude": 43.61421,
+    "salary_min": 58937.17,
+    "description": "SPONSORSHIP: (remove if offered to all): This opportunity is intended for conversion to a full-time role that will not offer work authorization sponsorship in the future (full-time conversion pending performance evaluation post internship and available headcount). Interested candidates must be currently eligible to work in the US AND must not require work authorization sponsorship in the future. HP, Inc. will not provide any assistance or sign documentation in support of immigration sponsorship…",
+    "created": "2026-02-05T19:56:56Z",
+    "location": {
+      "area": [
+        "US",
+        "Idaho",
+        "Ada County",
+        "Boise"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Boise, Ada County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "HP Inc."
+    },
+    "id": "5616510774",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_max": 58937.17,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "longitude": -116.21582,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjE2NTEwNzc0In0.3BiEem_m0fO8ZbdhjqFSqNG0n-Qr1abG0mtI7riFYBA"
+  },
+  {
+    "location": {
+      "display_name": "Redstone Arsenal, Madison County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Alabama",
+        "Madison County",
+        "Redstone Arsenal"
+      ]
+    },
+    "company": {
+      "display_name": "The Boeing Company",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5626943350",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 102678.31,
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -86.642815,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjI2OTQzMzUwIn0.r-ct0TK05EE4zLBtBcqno3DwJOP1LXmuZtvlZ5elxeI",
+    "redirect_url": "https://www.adzuna.com/land/ad/5626943350?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=A077CE2EE9C3269065D130FA9ACE9204C2793FA7",
+    "title": "Associate Software Engineer, Artificial Intelligence",
+    "latitude": 34.699523,
+    "description": "Job Description At Boeing, we innovate and collaborate to make the world a better place. We're committed to fostering an environment for every teammate that's welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us. The Boeing Applications & Innovations Artificial Intelligence software team is currently looking for an Associate Software Engineer to join their Artificial Intelligence (AI) team in Huntsville, A laba ma . As part of the Boeing …",
+    "salary_min": 102678.31,
+    "created": "2026-02-12T20:02:20Z"
+  },
+  {
+    "created": "2026-01-15T19:36:45Z",
+    "description": "Description: WHAT WE'RE DOING We are creating Artificial Intelligence/Machine Learning \\(AI/ML\\) algorithms to significantly improve our defensive capabilities for advanced, maneuvering missile threats\\. These algorithms are the foundation of microservices that are being integrated into large command and control \\(C2\\) programs of record\\. Artificial Intelligence/Machine Learning Engineer THE WORK The Lockheed Martin REALM AI team is looking for an AI/ML engineer who is passionate about cutting…",
+    "salary_min": 139861.34,
+    "latitude": 38.84868,
+    "title": "Artificial Intelligence/Machine Learning Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5587148664?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=E165460E3AEB63A9F6FB4F09B2625E9DB914B16B",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTg3MTQ4NjY0In0.6lh7bfSAHPgu-h49Lk3KPUvWTFPbxXGSNMlRfMWYDKM",
+    "longitude": -104.77878,
+    "salary_max": 139861.34,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5587148664",
+    "location": {
+      "area": [
+        "US",
+        "Colorado",
+        "El Paso County",
+        "Colorado Springs"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Colorado Springs, El Paso County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Lockheed Martin"
+    }
+  },
+  {
+    "created": "2025-11-13T12:56:11Z",
+    "salary_min": 161875.86,
+    "description": "Artificial Intelligence Senior Security Engineer Chicago, Illinois;Washington, District of Columbia; Boston, Massachusetts; Denver, Colorado To proceed with your application, you must be at least 18 years of age. Acknowledge Refer a friend To proceed with your application, you must be at least 18 years of age. Acknowledge (https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Artificial-Intelligence-Senior-Security-Engineer\\_25044533) Job Description: At Bank of America, we are guided by a c…",
+    "latitude": 39.739167,
+    "title": "Artificial Intelligence Senior Security Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5494443511?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=848FC75107D2B07E443278F83BEB39A15DCDE6BE",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NDQ0MzUxMSIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.K5Jg78O_bO4fE6CG0_WSdWVSeeV1KoOm1cjozVHoRRM",
+    "longitude": -104.984167,
+    "salary_max": 161875.86,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5494443511",
+    "location": {
+      "display_name": "Glendale, Denver",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Colorado",
+        "Denver",
+        "Glendale"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bank of America"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NDk3OTMwMTAxIn0.ffnsWI_NXBKiru-TkAtEGtwsuii59kax9OvU5-zMmcY",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 129617.32,
+    "longitude": -71.065917,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "US",
+        "Massachusetts",
+        "Suffolk County",
+        "Boston"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Boston, Suffolk County"
+    },
+    "company": {
+      "display_name": "Bank of America",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5497930101",
+    "description": "Artificial Intelligence Senior Security Engineer Chicago, Illinois;Washington, District of Columbia; Boston, Massachusetts; Denver, Colorado To proceed with your application, you must be at least 18 years of age. Acknowledge Refer a friend To proceed with your application, you must be at least 18 years of age. Acknowledge (https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Artificial-Intelligence-Senior-Security-Engineer\\_25044533) Job Description: At Bank of America, we are guided by a c…",
+    "salary_min": 129617.32,
+    "created": "2025-11-15T13:12:54Z",
+    "latitude": 42.356644,
+    "title": "Artificial Intelligence Senior Security Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5497930101?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=310E6B20EC6C8F73F8883FE1ACE057126EFE9049"
+  },
+  {
+    "title": "Artificial Intelligence Senior Security Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5494514106?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=CEEB615C73A6D0E31D38291DA936C3A9F5C6931A",
+    "created": "2025-11-13T13:56:59Z",
+    "description": "Artificial Intelligence Senior Security Engineer Chicago, Illinois;Washington, District of Columbia; Boston, Massachusetts; Denver, Colorado To proceed with your application, you must be at least 18 years of age. Acknowledge Refer a friend To proceed with your application, you must be at least 18 years of age. Acknowledge (https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Artificial-Intelligence-Senior-Security-Engineer\\_25044533) Job Description: At Bank of America, we are guided by a c…",
+    "salary_min": 140051.67,
+    "latitude": 38.89969,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5494514106",
+    "location": {
+      "display_name": "Washington, D.C., US",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Washington, D.C."
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bank of America"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5NDUxNDEwNiIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.SKNDqUkREg3FijjLy9JFTW0nUkgtqedP-NO0kPRGn8c",
+    "longitude": -77.02717,
+    "salary_max": 140051.67,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "title": "Senior MLOps Engineer - Artificial Intelligence",
+    "redirect_url": "https://www.adzuna.com/land/ad/5052449689?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=845AF40264CA7ED8A226605EC633722C43B3F0F6",
+    "description": "Senior MLOps Engineer - Artificial Intelligence Location New York Business Area Engineering and CTO Ref  10036291 Description & Requirements Bloomberg's Engineering AI department has 350 AI practitioners building highly sought after products and features that often require novel innovations. We are investing in AI to build better search, discovery, and workflow solutions using technologies such as transformers, gradient boosted decision trees, large language models, and dense vector databases. …",
+    "salary_min": 276056.9,
+    "created": "2025-02-16T09:29:56Z",
+    "latitude": 40.755381,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Grand Central, Manhattan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "New York",
+        "New York City",
+        "Manhattan",
+        "Grand Central"
+      ]
+    },
+    "company": {
+      "display_name": "Bloomberg",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5052449689",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1MDUyNDQ5Njg5In0.ggJlcwq_ttofkLN35FIIv9EWjw1SGfuL3q45HO_Ycds",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 276056.9,
+    "longitude": -73.978504
+  },
+  {
+    "id": "5631427974",
+    "location": {
+      "area": [
+        "US",
+        "Washington",
+        "King County",
+        "International"
+      ],
+      "display_name": "International, King County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "The Boeing Company",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -122.326064,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 102316.25,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzMTQyNzk3NCIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.aO4t3MPDy0Ln05qZHHg-5LToNXVnKrQUZDRgAKA-Qns",
+    "redirect_url": "https://www.adzuna.com/land/ad/5631427974?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=D95AEE721EA245D13A358D98D766A0DFC4FCD706",
+    "title": "Artificial Intelligence and Analytics Engagement Manager",
+    "latitude": 47.602485,
+    "created": "2026-02-15T23:07:50Z",
+    "salary_min": 102316.25,
+    "description": "Job Description At Boeing, we innovate and collaborate to make the world a better place. We're committed to fostering an environment for every teammate that's welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us. The Boeing Company is currently seeking an Artificial Intelligence and Analytics Engagement Manager to join the team in Seattle, WA; Renton, WA; Mesa, AZ; or Berkeley, MO. This individual will join the Enterprise Artificial Intel…"
+  },
+  {
+    "salary_min": 55758.25,
+    "description": "Company Overview: At Labcorp, we believe in the power of science to change lives. We are nearly 70,000 people across 100 countries who are harnessing science for human good. Our work combines unparalleled diagnostic laboratories, drug development capabilities and commercial innovations. Together, we fuel scientific breakthroughs and deliver more than 160 million medical test results that help guide treatment decisions, accelerate patient care and change lives. Join us in our pursuit of answers.…",
+    "created": "2026-02-14T20:24:39Z",
+    "latitude": 35.99382,
+    "title": "Intern - Data Science and Artificial Intelligence",
+    "redirect_url": "https://www.adzuna.com/land/ad/5630389931?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=D224B9444E0A2698DC7FA496462F941F66B09948",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjMwMzg5OTMxIn0.NfTqNq-FHeiZELCLihK9uEFH7wqOC-FAX9wRHmrqqUQ",
+    "salary_max": 55758.25,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -78.8988,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Durham, Durham County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "North Carolina",
+        "Durham County",
+        "Durham"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Labcorp"
+    },
+    "id": "5630389931"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5630389929?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=467FC214266011C606ABBA73E81F528E4AFAA957",
+    "title": "Intern - Data Science and Artificial Intelligence",
+    "latitude": 36.084092,
+    "salary_min": 53437.94,
+    "description": "Company Overview: At Labcorp, we believe in the power of science to change lives. We are nearly 70,000 people across 100 countries who are harnessing science for human good. Our work combines unparalleled diagnostic laboratories, drug development capabilities and commercial innovations. Together, we fuel scientific breakthroughs and deliver more than 160 million medical test results that help guide treatment decisions, accelerate patient care and change lives. Join us in our pursuit of answers.…",
+    "created": "2026-02-14T20:24:39Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Graham, Alamance County",
+      "area": [
+        "US",
+        "North Carolina",
+        "Alamance County",
+        "Graham"
+      ]
+    },
+    "company": {
+      "display_name": "Labcorp",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5630389929",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_max": 53437.94,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "longitude": -79.412702,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjMwMzg5OTI5In0.rxF3vj5ubrPg0QqhMNAF6QBrlcw7oE4l4SWIlvCUWW0"
+  },
+  {
+    "salary_max": 105880.71,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -94.445348,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTQ5MzM5MTE0In0.jt3BwN1BEy4B74TohX_ewJ5ZQvio2OA4sAB1ZjHR7Xo",
+    "location": {
+      "area": [
+        "US",
+        "Minnesota",
+        "Stearns County",
+        "Avon"
+      ],
+      "display_name": "Avon, Stearns County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Robert Half",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5549339114",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 45.626297,
+    "description": "Description We are looking for a highly experienced Lead Artificial Intelligence (AI) Engineer to spearhead the development and implementation of cutting-edge AI and Machine Learning solutions within our organization. This role is integral to driving innovation, optimizing operational processes, and delivering impactful business outcomes across various projects. As a senior technical expert, you will collaborate with cross-functional teams to design scalable systems, set technical standards, an…",
+    "salary_min": 105880.71,
+    "created": "2025-12-19T19:11:58Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5549339114?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=FDECD703CCE69DFB3C8137401E7F794B228CDC66",
+    "title": "Lead Artificial Intelligence (AI) Engineer"
+  },
+  {
+    "title": "Intermediate Artificial Intelligence (AI) Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5425448542?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=1B1BE2B967ECDCA8378272165BC94D0D7178173E",
+    "description": "ASRC Federal is a leading government contractor furthering missions in space, public health and defense. As an Alaska Native owned corporation, our work helps secure an enduring future for our shareholders. Join our team and discover why we are a top veteran employer and Certified Great Place to Work ASRC Federal Technology Solutions LLC is looking for an AI Engineer - Intermediate with a Secret clearance to support their work with the U.S. Army Contracting Command (ACC) Chief Information Offic…",
+    "salary_min": 116840.02,
+    "created": "2025-10-01T19:03:47Z",
+    "latitude": 34.699523,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Redstone Arsenal, Madison County",
+      "area": [
+        "US",
+        "Alabama",
+        "Madison County",
+        "Redstone Arsenal"
+      ]
+    },
+    "company": {
+      "display_name": "ASRC Federal Holding Company",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5425448542",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQyNTQ0ODU0MiIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.idDleVkbf1Vu-ScP7U_lMqj5pClrWRROqfdh33XY3ac",
+    "salary_max": 116840.02,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "longitude": -86.642815
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5572791802",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wake Island, Honolulu",
+      "area": [
+        "US",
+        "Hawaii",
+        "Honolulu",
+        "Wake Island"
+      ]
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyNzkxODAyIn0.9mor6GOb3z71S7hx_hcRjNSZx6_9h7YDJhdwgq_RcV8",
+    "longitude": -157.8465,
+    "salary_max": 90748.73,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572791802?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=0CD282D346B07021807EF40946CB77C4AAC81410",
+    "created": "2026-01-07T19:13:44Z",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 90748.73,
+    "latitude": 21.3072
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODI1MzE5In0.HNfdqNijIS5dp3jcwnKeo9n2iE-moWwte9YYEkZwQJM",
+    "salary_max": 104486.21,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "longitude": -92.17271,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "US",
+        "Missouri",
+        "Cole County",
+        "Cedar"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Cedar, Cole County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572825319",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 104486.21,
+    "created": "2026-01-07T19:29:18Z",
+    "latitude": 38.57717,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572825319?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=21C052AA8BF8BFC52D4B378AA5307ACB76EAFDC9"
+  },
+  {
+    "longitude": -83.000202,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 121321.2,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjkwMTc2MiIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.cCQQt5Wfq1r1DOH6A2CdaHfKfFTWezz52Da363fASF8",
+    "id": "5572901762",
+    "location": {
+      "area": [
+        "US",
+        "Ohio",
+        "Franklin County",
+        "Grandview Heights"
+      ],
+      "display_name": "Grandview Heights, Franklin County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "latitude": 39.991073,
+    "created": "2026-01-07T19:54:09Z",
+    "salary_min": 121321.2,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572901762?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=9F24E8C70A37D93CA7F2F3F64F56445C3A70AAA1",
+    "title": "Senior Artificial Intelligence (AI) Consultant"
+  },
+  {
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572834709?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=4B03A8441DDDEB55264B0D8170D7ECA9913A3865",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 138050.5,
+    "created": "2026-01-07T19:30:41Z",
+    "latitude": 33.795821,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Atlanta, Fulton County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572834709",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjgzNDcwOSIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.S2MHuLsiwvOcJ8Vgn4Eno-1kFVRwCtgtjy2Zba2kGeE",
+    "salary_max": 138050.5,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -84.38763
+  },
+  {
+    "salary_max": 131743.9,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -69.7445,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Mjc5MTg1NiIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.M-WVmPdi7cDN5aj5rUGODwzw-HO0Hyhux3KidULsxLk",
+    "location": {
+      "display_name": "Augusta, Kennebec County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Maine",
+        "Kennebec County",
+        "Augusta"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572791856",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "latitude": 44.33616,
+    "salary_min": 131743.9,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "created": "2026-01-07T19:13:46Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572791856?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=726D4FC74209A03625FF4F855010156F53C9EF4F",
+    "title": "Senior Artificial Intelligence (AI) Consultant"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODI1MDMzIn0.kMFyBH1HL7d9EIQ6fLpUkIweqhh0wkYwa6GM-FcIvcU",
+    "longitude": -74.73156,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 103441.1,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5572825033",
+    "location": {
+      "area": [
+        "US",
+        "New Jersey",
+        "Mercer County",
+        "Trenton"
+      ],
+      "display_name": "Trenton, Mercer County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "created": "2026-01-07T19:29:17Z",
+    "salary_min": 103441.1,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "latitude": 40.21938,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572825033?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=5B341236245467084B8FC2FE10D0B6CECFE20440"
+  },
+  {
+    "salary_max": 100103.69,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -89.3816,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MzA1OTkwNiIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.sqgjQGByj5q4mRgboYv4Dsg_EL0AJy4vwUFGC096IS0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Madison, Dane County",
+      "area": [
+        "US",
+        "Wisconsin",
+        "Dane County",
+        "Madison"
+      ]
+    },
+    "id": "5573059906",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 43.07611,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 100103.69,
+    "created": "2026-01-07T23:14:32Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5573059906?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=0710E6F022675AD55EB6FA938686A54A3C567B5F",
+    "title": "Senior Artificial Intelligence (AI) Consultant"
+  },
+  {
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5572603229",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Annapolis"
+      ],
+      "display_name": "Annapolis, Anne Arundel County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyNjAzMjI5In0.slOVvvuGDISSHo3ljCcAPHywFnK4wR8WYS5Ohpkd-yA",
+    "longitude": -76.533695,
+    "salary_max": 120648.18,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572603229?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=362EF9207D880FE177747EF2E2E804C3DBDD8720",
+    "created": "2026-01-07T15:30:43Z",
+    "salary_min": 120648.18,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "latitude": 38.982355
+  },
+  {
+    "created": "2026-01-07T19:33:39Z",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 96857.32,
+    "latitude": 43.61421,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572846705?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=A1AF6D816802E0B38E7C155345F46B991E1A8EA8",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODQ2NzA1In0.bRQvafzTPnLx0ndUI5o6E_0yvjrT64zJn1T8MwjHzFk",
+    "longitude": -116.21582,
+    "salary_max": 96857.32,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5572846705",
+    "location": {
+      "area": [
+        "US",
+        "Idaho",
+        "Ada County",
+        "Boise"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Boise, Ada County"
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "salary_max": 121537.63,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -96.676821,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjgxNDAzMyIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.QAy3NgxayPgkxwrbHdF-N6fWjagKBDcc4PslJWnpo20",
+    "location": {
+      "area": [
+        "US",
+        "Nebraska",
+        "Lancaster County",
+        "State House"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "State House, Lancaster County"
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5572814033",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "latitude": 40.822932,
+    "salary_min": 121537.63,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "created": "2026-01-07T19:26:51Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572814033?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=41250CD7EB799AA9EF48E79AED00C67BD1D9087C",
+    "title": "Senior Artificial Intelligence (AI) Consultant"
+  },
+  {
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5572819026",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Lansing, Ingham County",
+      "area": [
+        "US",
+        "Michigan",
+        "Ingham County",
+        "Lansing"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjgxOTAyNiIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.0yk1Q3ZTEl1pztpsJViQkJZVjKirbONWN5MoALdFG80",
+    "longitude": -84.570821,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 103156.89,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572819026?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=BF9DC426AE91A8373DB741419C6E98A99F3CBDA4",
+    "created": "2026-01-07T19:28:02Z",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 103156.89,
+    "latitude": 42.738827
+  },
+  {
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Salem, Marion County",
+      "area": [
+        "US",
+        "Oregon",
+        "Marion County",
+        "Salem"
+      ]
+    },
+    "id": "5572809500",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 93818.8,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -123.02826,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODA5NTAwIn0.5jNt-DU9gVwLnaLqmW2Kk9OK95MfYWfFB1pHSw01BS8",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572809500?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=CDB442BB0EB32A50FFA6632BE806EFB90F3DAE26",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "latitude": 44.94379,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 93818.8,
+    "created": "2026-01-07T19:26:02Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTczMDE5MzM0In0.lLSEaMJ0_EY7bS3DII1fIHh4sTy9kj_anpkZ1omaAuU",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 100981.31,
+    "longitude": -111.88763,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bonnie, Utah County",
+      "area": [
+        "US",
+        "Utah",
+        "Utah County",
+        "Bonnie"
+      ]
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5573019334",
+    "salary_min": 100981.31,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "created": "2026-01-07T22:35:45Z",
+    "latitude": 40.72693,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5573019334?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=99E983D80737AAC749692C2291EF96CE7F4EC9FE"
+  },
+  {
+    "longitude": -104.80953,
+    "salary_max": 113568.18,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjgyNjMzMSIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.3Ay3zAZKgb6QXbl1dcry4Q8fEjbixHDZZuxkl8K8_Rg",
+    "id": "5572826331",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Archer, Laramie County",
+      "area": [
+        "US",
+        "Wyoming",
+        "Laramie County",
+        "Archer"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 41.187702,
+    "created": "2026-01-07T19:29:24Z",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 113568.18,
+    "redirect_url": "https://www.adzuna.com/land/ad/5572826331?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=B1E86CBB03E5AA5CF2CE8A5A3BC1EA241A713701",
+    "title": "Senior Artificial Intelligence (AI) Consultant"
+  },
+  {
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572813837?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=718BD1EC8440645019DC3D86D067B3E24FFED811",
+    "created": "2026-01-07T19:26:49Z",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 100050.43,
+    "latitude": 39.04853,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5572813837",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Topeka, Shawnee County",
+      "area": [
+        "US",
+        "Kansas",
+        "Shawnee County",
+        "Topeka"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODEzODM3In0.bHqVnqjrmQ2TcRN69juYAm3wtCILUOIdBFK-IT7_NoM",
+    "longitude": -95.68007,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 100050.43
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5572821552?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=24A8A2E4083C1E45A1689000CA0724BB9E7769BF",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "latitude": 36.14946,
+    "salary_min": 101625.41,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "created": "2026-01-07T19:28:37Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Nashville, Davidson County",
+      "area": [
+        "US",
+        "Tennessee",
+        "Davidson County",
+        "Nashville"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572821552",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 101625.41,
+    "longitude": -86.78903,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODIxNTUyIn0.jMygUDQ-jKTXk2vW-6J4Y2HtL-lpjOzGWJF1D_nveSw"
+  },
+  {
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572813228?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=2D0CA562C1B01DA423A734BE0F7FA50F097FE809",
+    "created": "2026-01-07T19:26:40Z",
+    "salary_min": 89935.49,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "latitude": 32.307985,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5572813228",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jackson, Hinds County",
+      "area": [
+        "US",
+        "Mississippi",
+        "Hinds County",
+        "Jackson"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjgxMzIyOCIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.EfJWiTeuyLhmoXTw7MAeeQd5ubO9SewEVsOncOgqQCc",
+    "longitude": -90.200343,
+    "salary_max": 89935.49,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "latitude": 44.26173,
+    "created": "2026-01-07T20:04:02Z",
+    "salary_min": 96111.73,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572915927?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=8D0C47F1F622DD4117FFE0443D28DE06F9148527",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "longitude": -72.58082,
+    "salary_max": 96111.73,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjkxNTkyNyIsInMiOiIybmJTekZ3TDhSR3lkOU9wZ0NJTEhBIn0.KJBtYFsq2hyb0qk2-_2y34DjibcjNBWCprGJ7N-Jb74",
+    "id": "5572915927",
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Vermont",
+        "Washington County",
+        "Montpelier"
+      ],
+      "display_name": "Montpelier, Washington County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "latitude": 32.378649,
+    "created": "2026-01-07T19:27:11Z",
+    "salary_min": 87343.72,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572814964?se=2nbSzFwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=FD2D84686A03A4D221CA1C83742324BF8FA02D32",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "longitude": -86.278545,
+    "salary_max": 87343.72,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMm5iU3pGd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODE0OTY0In0.SMD1qHi3tgXAtFPlgDP2fc9N5WNtY8xq22_SgtHtl6A",
+    "id": "5572814964",
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Alabama",
+        "Montgomery County",
+        "Chisolm"
+      ],
+      "display_name": "Chisolm, Montgomery County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "location": {
+      "area": [
+        "US",
+        "New York",
+        "Albany County",
+        "Ny State Campus"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Ny State Campus, Albany County"
+    },
+    "id": "5572903326",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyOTAzMzI2In0.8hk4w_jyCJ2F_j9B1wKsWGS1LoRzPoe7CKjwBHezNZ0",
+    "salary_max": 110133.17,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -73.77562,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572903326?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=A5DA8715F5CD218991683C20F437F98E9FD3A232",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 110133.17,
+    "created": "2026-01-07T19:54:56Z",
+    "latitude": 42.67264
+  },
+  {
+    "salary_max": 147415.94,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -92.344809,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODA3ODkxIn0.d5Sz-Z29SObVK50aDjcnIA2QEgUoWnxg1IHkY6GKeqk",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Cammack Village, Pulaski County",
+      "area": [
+        "US",
+        "Arkansas",
+        "Pulaski County",
+        "Cammack Village"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572807891",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 34.752418,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 147415.94,
+    "created": "2026-01-07T19:25:45Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572807891?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=1E54F4735F7DA153AE3F51473282C616F1C3CB1D",
+    "title": "Senior Artificial Intelligence (AI) Consultant"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5572819785?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=559CD8C13347D4352124BA1DCFDF1798214D90DD",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "latitude": 42.356644,
+    "created": "2026-01-07T19:28:12Z",
+    "salary_min": 92529.76,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "id": "5572819785",
+    "location": {
+      "area": [
+        "US",
+        "Massachusetts",
+        "Suffolk County",
+        "Boston"
+      ],
+      "display_name": "Boston, Suffolk County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "longitude": -71.065917,
+    "salary_max": 92529.76,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjgxOTc4NSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.oYu9REFcS3uhWOdEFUlEEy95NuA8OsP-svKchzP_e40"
+  },
+  {
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 134926.92,
+    "created": "2026-01-07T15:28:27Z",
+    "latitude": 35.691854,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572599830?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=37411C8DBA78E0D1767A026458E0A2AA42751A4B",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjU5OTgzMCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.gs2y7QpDNcbVDdc6pAz_yzz_taDy823tbzlSqEXqmW0",
+    "salary_max": 134926.92,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -105.942534,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "US",
+        "New Mexico",
+        "Santa Fe County",
+        "La Cienga"
+      ],
+      "display_name": "La Cienga, Santa Fe County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572599830"
+  },
+  {
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 97631.59,
+    "created": "2026-01-07T19:17:36Z",
+    "latitude": 34.02978,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572794496?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=C486CAB69A0CFB4CA32B8589897C3771D09498B7",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Mjc5NDQ5NiIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.2NS98Ccx7EcwCpm1Ir4Ms6708BQuKNAFUm_41PgcZEM",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 97631.59,
+    "longitude": -81.0075,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "US",
+        "South Carolina",
+        "Richland County",
+        "Edgewood"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Edgewood, Richland County"
+    },
+    "id": "5572794496"
+  },
+  {
+    "location": {
+      "display_name": "Pierre, Hughes County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "South Dakota",
+        "Hughes County",
+        "Pierre"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572909495",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_max": 147857.77,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -100.331046,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjkwOTQ5NSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.t1vWpxwYvmPZwKyImxqh-qvq5CGLylIaFOb8ZfAYzAs",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572909495?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=B5D37212A8ABF04A77B02AA64A92CB34FFD73289",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "latitude": 44.382775,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 147857.77,
+    "created": "2026-01-07T19:58:31Z"
+  },
+  {
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572910376?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=B9C570D0E5598DE826F7993060BBB811C569D244",
+    "created": "2026-01-07T19:59:21Z",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 109710.08,
+    "latitude": 35.807915,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5572910376",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "location": {
+      "display_name": "Five Points, Wake County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "North Carolina",
+        "Wake County",
+        "Five Points"
+      ]
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjkxMDM3NiIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.y3GyxveT55UJTaQMrbsh8iZQIJgFVNwMFuBWAe2vDDA",
+    "longitude": -78.646597,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 109710.08
+  },
+  {
+    "latitude": 46.79472,
+    "created": "2026-01-07T19:33:43Z",
+    "salary_min": 93994.59,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572847159?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=04D14899BBFF1FD397D4FF76C6DB1BFA12D55B75",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "longitude": -100.7568,
+    "salary_max": 93994.59,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3Mjg0NzE1OSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.D9gVegtig5h83k1CSp6wkZoXSvzoy4wtb7uYpFZyeFU",
+    "id": "5572847159",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bismarck, Burleigh County",
+      "area": [
+        "US",
+        "North Dakota",
+        "Burleigh County",
+        "Bismarck"
+      ]
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1"
+  },
+  {
+    "id": "5572920624",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "location": {
+      "area": [
+        "US",
+        "West Virginia",
+        "Kanawha County",
+        "Charleston"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Charleston, Kanawha County"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -81.63006,
+    "salary_max": 101159.34,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjkyMDYyNCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.3-jJ1efLkrX-UOPd56ZtGlTMo85Gha6HNUoQ9hHEZyQ",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572920624?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=FC036FE3D6FD649F8A85E67A3B179FA782FD7009",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "latitude": 38.35162,
+    "created": "2026-01-07T20:05:53Z",
+    "salary_min": 101159.34,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Saint Paul, Ramsey County",
+      "area": [
+        "US",
+        "Minnesota",
+        "Ramsey County",
+        "Saint Paul"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572822679",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjgyMjY3OSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.-lFcJ1reTxh5g8bXZiP2pkJBqfRv_Z7bk588_eujrjQ",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 96176.64,
+    "longitude": -93.09298,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572822679?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=1BC36C2FAE4B30C1345FDE385295A03230D2D97B",
+    "salary_min": 96176.64,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "created": "2026-01-07T19:28:51Z",
+    "latitude": 44.94452
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODEwMDEzIn0.nz0JgEpaGhnBrX0Ry9gm5m8uIAw2WDBdnQMfFxaioYI",
+    "salary_max": 106370.97,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -84.8721,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "US",
+        "Kentucky",
+        "Franklin County",
+        "Frankfort"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Frankfort, Franklin County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572810013",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 106370.97,
+    "created": "2026-01-07T19:26:08Z",
+    "latitude": 38.2008,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572810013?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=99CA0DDC5526FDA326479799D891C763486A34D4"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5572814204",
+    "location": {
+      "area": [
+        "US",
+        "Indiana",
+        "Marion County",
+        "Uptown"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Uptown, Marion County"
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODE0MjA0In0.DBFIkn87LSZQRg0sb0yqPpN88VChUtmzoc71FPfOFes",
+    "longitude": -86.1587,
+    "salary_max": 120398.99,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572814204?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=C473E6967940238572B8A5B1AF60E8B32F29DEB4",
+    "created": "2026-01-07T19:26:56Z",
+    "salary_min": 120398.99,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "latitude": 39.7878
+  },
+  {
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Phoenix, Maricopa County",
+      "area": [
+        "US",
+        "Arizona",
+        "Maricopa County",
+        "Phoenix"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    },
+    "id": "5572817734",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODE3NzM0In0.lx3fdR-VC6CQGzWMTVcAK_4L0HzNS7Es2VdaoOHttog",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 93366.71,
+    "longitude": -112.08293,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572817734?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=41EC8648CF6EB4B9F37DFD3806EB44E62FD99D4B",
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 93366.71,
+    "created": "2026-01-07T19:27:46Z",
+    "latitude": 33.50977
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Talcott Village, Hartford County",
+      "area": [
+        "US",
+        "Connecticut",
+        "Hartford County",
+        "Talcott Village"
+      ]
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5572812168",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_max": 106059.69,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -72.683866,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODEyMTY4In0.NymU1ZHAl4Di11rVjWuKhVmysRj6Q9afWLgrEgGF2xM",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572812168?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=8AD23A56859316A2BC68F74929364024606367D6",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "latitude": 41.7657,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 106059.69,
+    "created": "2026-01-07T19:26:29Z"
+  },
+  {
+    "latitude": 30.446919,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "salary_min": 95724.15,
+    "created": "2026-01-07T19:26:10Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572810266?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=C2B4DA65ECBA03E93D3DB0D6074FA2EB7AD9A90C",
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "salary_max": 95724.15,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -91.130243,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MjgxMDI2NiIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.lgmaB9eHj5ZJOMn-6EPjcUgLd6wV7AECXYDMxhGA_Ag",
+    "location": {
+      "area": [
+        "US",
+        "Louisiana",
+        "East Baton Rouge Parish",
+        "Baton Rouge"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Baton Rouge, East Baton Rouge Parish"
+    },
+    "company": {
+      "display_name": "Highmark Health",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5572810266",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1"
+  },
+  {
+    "created": "2026-01-07T22:51:26Z",
+    "salary_min": 99645.92,
+    "description": "Company : Highmark Health Job Description : JOB SUMMARY This job is responsible for collaborating with leaders to understand their business objectives and challenges and providing expert guidance on the integration of artificial intelligence. This individual conducts assessments of systems, data, infrastructure, and business processes to identify opportunities for AI products and services. The incumbent collaborates across vendor partners, internal data scientists, data, and infrastructure to f…",
+    "latitude": 47.031096,
+    "title": "Senior Artificial Intelligence (AI) Consultant",
+    "redirect_url": "https://www.adzuna.com/land/ad/5573022041?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=B00E5D433D05A59D5254A8CD670CA2923499BC07",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU3MzAyMjA0MSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.q6wwjEeuz9GYvYyt2kq21XINagHuwHWQZA7crXjbMKE",
+    "longitude": -122.870669,
+    "salary_max": 99645.92,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5573022041",
+    "location": {
+      "display_name": "Tumwater, Thurston County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Washington",
+        "Thurston County",
+        "Tumwater"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Highmark Health"
+    }
+  },
+  {
+    "created": "2025-11-21T15:31:23Z",
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "salary_min": 217762.56,
+    "latitude": 33.795821,
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "redirect_url": "https://www.adzuna.com/land/ad/5508394810?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=0B53F8F1E60B48F34C35242E0A9D6F85CCCF3764",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM5NDgxMCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.k1czAG1UNpo4-c8S2pyHS6j6hP-HgLruWZH1LAnSnTQ",
+    "longitude": -84.38763,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 217762.56,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5508394810",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Atlanta, Fulton County",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Atlanta"
+      ]
+    },
+    "company": {
+      "display_name": "EY",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM5NDg1NSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.BNX9li6hAFgACvFGNEIv59IlJdyxoNoYqYGPmYUXRao",
+    "longitude": -84.300837,
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 180760.64,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5508394855",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Alpharetta, Fulton County",
+      "area": [
+        "US",
+        "Georgia",
+        "Fulton County",
+        "Alpharetta"
+      ]
+    },
+    "company": {
+      "display_name": "EY",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "created": "2025-11-21T15:31:23Z",
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "salary_min": 180760.64,
+    "latitude": 34.076445,
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "redirect_url": "https://www.adzuna.com/land/ad/5508394855?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=CA9453C6E5B874196A32314741A38B075A4B92DF"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM5ODg4MyIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.HJHs57LYHMo6nwLneUFXeGJvC4lcRhPEvVL8M3B68zM",
+    "longitude": -81.66832,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 202836.92,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5508398883",
+    "company": {
+      "display_name": "EY",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Newburgh Heights, Cuyahoga County",
+      "area": [
+        "US",
+        "Ohio",
+        "Cuyahoga County",
+        "Newburgh Heights"
+      ]
+    },
+    "created": "2025-11-21T15:33:11Z",
+    "salary_min": 202836.92,
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "latitude": 41.49307,
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "redirect_url": "https://www.adzuna.com/land/ad/5508398883?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=6E47D35CCD697CE2B72F185D9360BA5743D113A4"
+  },
+  {
+    "latitude": 38.89969,
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "salary_min": 157707.48,
+    "created": "2025-11-21T15:21:30Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5508350938?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=135F6FC4AA96D0CA9A0138BDD9A2EAC3A806676A",
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 157707.48,
+    "longitude": -77.02717,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM1MDkzOCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.88KNsB6zP1v8GNYgXCb5Hl6olBrQ8sNu9wctwSuS8CA",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EY"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Washington, D.C."
+      ],
+      "display_name": "Washington, D.C., US",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5508350938",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1"
+  },
+  {
+    "latitude": 40.790013,
+    "created": "2025-11-21T15:26:10Z",
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "salary_min": 190339.52,
+    "redirect_url": "https://www.adzuna.com/land/ad/5508374251?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=6A58762C2576D58ACA8F5190B3226D2393EFCAC5",
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "longitude": -74.062078,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 190339.52,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM3NDI1MSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.cReCmDg5QKA1TIkdoh0dc7SlRlpZ8AxUFsc0CUQUd3g",
+    "id": "5508374251",
+    "location": {
+      "area": [
+        "US",
+        "New Jersey",
+        "Hudson County",
+        "Secaucus"
+      ],
+      "display_name": "Secaucus, Hudson County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "EY",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "salary_max": 165221.66,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -74.03493,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM3NDE5MSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.aWPpMXopWCFq6_6QUqO5OhDj3naTIm6KmlXbe4etcC8",
+    "location": {
+      "display_name": "Hoboken, Hudson County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "New Jersey",
+        "Hudson County",
+        "Hoboken"
+      ]
+    },
+    "company": {
+      "display_name": "EY",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5508374191",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 40.746238,
+    "salary_min": 165221.66,
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "created": "2025-11-21T15:26:10Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5508374191?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=E49B88748BD810A0EEECE77645005B2AE64CF1C5",
+    "title": "Artificial Intelligence (AI) Identity Architect"
+  },
+  {
+    "id": "5509745066",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Jericho, Nassau County",
+      "area": [
+        "US",
+        "New York",
+        "Nassau County",
+        "Jericho"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EY"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "longitude": -73.541863,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 156122.75,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwOTc0NTA2NiIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.x-_fm-ec9AXMV76uklGPvuNMGqBsXLgw_4TEoyxIYv4",
+    "redirect_url": "https://www.adzuna.com/land/ad/5509745066?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=52F64454BD6A00608F8726F1DAB91F5E7675E9F5",
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "latitude": 40.7885,
+    "created": "2025-11-22T16:10:14Z",
+    "salary_min": 156122.75,
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …"
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "New York",
+        "Monroe County",
+        "Rochester"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Rochester, Monroe County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EY"
+    },
+    "id": "5509745062",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 161631.52,
+    "longitude": -77.62153,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTA5NzQ1MDYyIn0.nLdYc3VJPVXd_QeLs7DUrppm76GCFekZYWZ4G1mElh8",
+    "redirect_url": "https://www.adzuna.com/land/ad/5509745062?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=33C11BE74D3314112140DB6CA868DA619EDA48DE",
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "latitude": 43.16098,
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "salary_min": 161631.52,
+    "created": "2025-11-22T16:10:14Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODI2MTkzOSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.m1OsBFFnd7jlwsCTtSwzlgy7RXqSZE7i7d_ai2Z0Ssw",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 186568.86,
+    "longitude": -118.29082,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Pico Heights, Los Angeles County",
+      "area": [
+        "US",
+        "California",
+        "Los Angeles County",
+        "Pico Heights"
+      ]
+    },
+    "company": {
+      "display_name": "EY",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5508261939",
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "salary_min": 186568.86,
+    "created": "2025-11-21T14:49:50Z",
+    "latitude": 34.047977,
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "redirect_url": "https://www.adzuna.com/land/ad/5508261939?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=CD59B78114CCB81E0D3E9AD442C9DD607CE96095"
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 190391.62,
+    "longitude": -122.410448,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTA4MjYxOTUxIn0.Nho512dClJy0H0wutkz-kaQBP-v80Qaca8bwBV5cre4",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EY"
+    },
+    "location": {
+      "area": [
+        "US",
+        "California",
+        "San Francisco",
+        "SoMa"
+      ],
+      "display_name": "SoMa, San Francisco",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5508261951",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "latitude": 37.773969,
+    "salary_min": 190391.62,
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "created": "2025-11-21T14:49:50Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5508261951?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=D198001C8AC3AAFFFF45D574157A8F36DE6F2E17",
+    "title": "Artificial Intelligence (AI) Identity Architect"
+  },
+  {
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "redirect_url": "https://www.adzuna.com/land/ad/5508374898?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=7958837368A9B186EA54C515CC73542353F3D1C9",
+    "created": "2025-11-21T15:26:15Z",
+    "salary_min": 145957.44,
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "latitude": 42.356644,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5508374898",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EY"
+    },
+    "location": {
+      "area": [
+        "US",
+        "Massachusetts",
+        "Suffolk County",
+        "Boston"
+      ],
+      "display_name": "Boston, Suffolk County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM3NDg5OCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.YGrxbw9y6iIBBo1XvKJQcyc2XqcLnY8Zh7YDaYOJL1I",
+    "longitude": -71.065917,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 145957.44
+  },
+  {
+    "id": "5509857910",
+    "company": {
+      "display_name": "EY",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "location": {
+      "area": [
+        "US",
+        "North Carolina",
+        "Wake County",
+        "Five Points"
+      ],
+      "display_name": "Five Points, Wake County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "longitude": -78.646597,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 173058.03,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTA5ODU3OTEwIn0.ixXR7TTrfMtalnhdeg__o8ijoolJs7yM0EqpcPsKfrM",
+    "redirect_url": "https://www.adzuna.com/land/ad/5509857910?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=77D82F94199A2C966D01A8D3DD41AF7528FF91AA",
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "latitude": 35.807915,
+    "created": "2025-11-22T16:35:58Z",
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "salary_min": 173058.03
+  },
+  {
+    "latitude": 44.9745,
+    "created": "2025-11-21T15:20:49Z",
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "salary_min": 169187.22,
+    "redirect_url": "https://www.adzuna.com/land/ad/5508349660?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=D8045D87B5F98E940C4B08AFBE6BC12DD5CCFE1E",
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "longitude": -93.3059,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 169187.22,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM0OTY2MCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.GA_QKUS1jZB-CT9DZSQfJERnvRqAK20pm7AvrsyIhWc",
+    "id": "5508349660",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Minneapolis, Hennepin County",
+      "area": [
+        "US",
+        "Minnesota",
+        "Hennepin County",
+        "Minneapolis"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EY"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5508381151?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=76A6D99C60CF824B962A7C25F8061677B20111DD",
+    "title": "Artificial Intelligence (AI) Identity Architect",
+    "latitude": 47.602485,
+    "created": "2025-11-21T15:28:48Z",
+    "salary_min": 167854.58,
+    "description": "At EY, we're all in to shape your future with confidence. We'll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity The Artificial Intelligence (AI) Identity Architect will partner across technology and business teams to design and govern the integration of Agentic AI, automation and intelligence into EY's global Identity and Access Management (IAM) ecosystem. The …",
+    "id": "5508381151",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "International, King County",
+      "area": [
+        "US",
+        "Washington",
+        "King County",
+        "International"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EY"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -122.326064,
+    "salary_max": 167854.58,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwODM4MTE1MSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.Fzrw6_h76XlNw5pu2ypQ3q8cDuxpsMx4evbmmqnoQdw"
+  },
+  {
+    "id": "5583228907",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Charlotte, Mecklenburg County",
+      "area": [
+        "US",
+        "North Carolina",
+        "Mecklenburg County",
+        "Charlotte"
+      ]
+    },
+    "company": {
+      "display_name": "SMBC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "longitude": -80.82779,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 135020.89,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTgzMjI4OTA3In0.i1Yz6s3kjyo_UPEnxucmgsq0-6ekuRD0SQjZvJ6MudQ",
+    "redirect_url": "https://www.adzuna.com/land/ad/5583228907?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=A7BF3BEBA448B7ED25D9AF1965B431F0D57CD4AC",
+    "title": "Head of Artificial Intelligence and Insights, AD",
+    "latitude": 35.21514,
+    "created": "2026-01-13T19:40:42Z",
+    "salary_min": 135020.89,
+    "description": "SMBC Group is a top-tier global financial group. Headquartered in Tokyo and with a 400-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG's shares trade on the Tokyo…"
+  },
+  {
+    "id": "5209145078",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Hartford, Hartford County",
+      "area": [
+        "US",
+        "Connecticut",
+        "Hartford County",
+        "Hartford"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MSP Test 5"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -72.662236,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "salary_max": 96854.18,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1MjA5MTQ1MDc4In0.Dj5JO8k7yAMBU503onql32WOchE7uWHzsa1Pr8BYM5E",
+    "redirect_url": "https://www.adzuna.com/details/5209145078?utm_medium=api&utm_source=31b863f3",
+    "title": "Artificial Intelligence",
+    "latitude": 41.789968,
+    "created": "2025-05-21T10:40:58Z",
+    "salary_min": 96854.18,
+    "description": "Designing, developing, and implementing AI models and algorithms to address business challenges and improve processes. Collaborating with cross-functional teams of data scientists, software developers, and business stakeholders to understand requirements and translate them into AI solutions. AI Engineers are involved in the end-to-end development and deployment of machine learning models. They translate complex data into AI-driven solutions that can perform autonomously in real-time environment…"
+  },
+  {
+    "contract_type": "permanent",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwODgzNzYwNSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.UsdzpAErstZqqpzGl0sJX1E-ui_g6xvXr-_kYQuFKhA",
+    "salary_max": 184000,
+    "salary_min": 136000,
+    "title": "Software Engineer–Artificial Intelligence (Artificial Intelligence)",
+    "redirect_url": "https://www.adzuna.com/land/ad/5608837605?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=6F8C92F2F55CC4D996C29AD14C02ECD20C4DE5DB",
+    "longitude": -90.331226,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "0",
+    "id": "5608837605",
+    "location": {
+      "area": [
+        "US",
+        "Missouri",
+        "Saint Louis County",
+        "Berkeley"
+      ],
+      "display_name": "Berkeley, Saint Louis County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Boeing"
+    },
+    "created": "2026-02-01T11:14:26Z",
+    "description": "Software Engineer–Artificial Intelligence (Artificial Intelligence) Company: The Boeing Company The Boeing Company is seeking a Software Engineer – Artificial Intelligence to join the Air Proprietary 2 (AP2) team located in Berkeley, MO . This position will focus on supporting th e Boeing Defense, Space & Security (BDS) business organization. The Boeing Air Dominance AP2 organization is at the forefront of developing innovative solutions, and our Automated Testing Framework (ATF) plays a critic…",
+    "latitude": 38.754495,
+    "contract_time": "full_time"
+  },
+  {
+    "id": "5614463640",
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Annapolis"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Annapolis, Anne Arundel County"
+    },
+    "company": {
+      "display_name": "Shield Consulting Solutions",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -76.533695,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 149438.39,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYxNDQ2MzY0MCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.QqpwvTMMzktvMubeI08nD_Bvi7EteKNTZ-4tYTwCYa0",
+    "redirect_url": "https://www.adzuna.com/land/ad/5614463640?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=1F81881032D640AD43CA4FD8DC796BEB92AB74E9",
+    "title": "Artificial Intelligence Machine Learning Engineer with Security Clearance",
+    "latitude": 38.982355,
+    "created": "2026-02-04T15:46:48Z",
+    "salary_min": 149438.39,
+    "description": "Active TS/SCI w/Polygraph REQUIRED Please do not apply if you do not currently possess this level of clearance.  Telework: None Basic Requirements: * Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow. * A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning * 5 years' experience in applied machine learning * 5 additional years of machine learning experience with a relevant Bachelor's degree may be substi…"
+  },
+  {
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5553085322",
+    "location": {
+      "area": [
+        "US",
+        "Arizona",
+        "Maricopa County",
+        "Scottsdale"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Scottsdale, Maricopa County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Mayo Clinic"
+    },
+    "longitude": -111.92175,
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "contract_time": "full_time",
+    "created": "2025-12-23T12:42:43Z",
+    "description": "Mayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News & World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic. Benefits Highlights •…",
+    "latitude": 33.49521,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTUzMDg1MzIyIn0.X8w3XZMrMKLZi0vQSsSlnw9Eeg3lrayGwgcfc8wX66w",
+    "contract_type": "contract",
+    "salary_max": 84386.41,
+    "title": "Research Fellow - Data Science and Artificial Intelligence",
+    "redirect_url": "https://www.adzuna.com/land/ad/5553085322?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=DA6C7D9AF2D9AC67E2D644ED283B46D5638F8C3A",
+    "salary_min": 84386.41
+  },
+  {
+    "title": "Faculty Position in Artificial Intelligence-Department of Surgery",
+    "redirect_url": "https://www.adzuna.com/land/ad/5365976868?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=87467C03FDA7DCB9EEBEF82A3E9A4A3CEA80CA0B",
+    "description": "Why Mayo Clinic Mayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News & World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans (https://jobs.mayoclinic.org/benefits/) - to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, s…",
+    "salary_min": 148354.52,
+    "created": "2025-08-23T17:33:07Z",
+    "latitude": 44.03682,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "US",
+        "Minnesota",
+        "Olmsted County",
+        "Rochester"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Rochester, Olmsted County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Mayo Clinic"
+    },
+    "id": "5365976868",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2NTk3Njg2OCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.QwLYnvsDVS8ZXFYCmeCU45icVl9ub5UQQM-Ocqrx0z4",
+    "salary_max": 148354.52,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "longitude": -92.4912
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Redmond, King County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Washington",
+        "King County",
+        "Redmond"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Microsoft Corporation"
+    },
+    "id": "5515434910",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTE1NDM0OTEwIn0.AhRK0VwTddP6NKDNWfKQ-7ktkGuQ69WRjCc9Unyv_DY",
+    "salary_max": 169082.36,
+    "category": {
+      "label": "Scientific & QA Jobs",
+      "tag": "scientific-qa-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -122.114799,
+    "title": "Senior Researcher - Artificial Intelligence - Microsoft Research",
+    "redirect_url": "https://www.adzuna.com/land/ad/5515434910?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=FDEAD4D8D0C6F6E6A190E62C5C219CF670D2F40A",
+    "salary_min": 169082.36,
+    "description": "Overview The AI Interaction and Learning team in Microsoft Research advances research on collaborative AI systems, where humans and AI agents work together to achieve outcomes that exceed what either could accomplish alone. We work closely with product teams deploying copilots, ensuring that our research both addresses the challenges of large-scale, real-world AI systems. Our mission is to move beyond individual assistance toward joint optimization at the group level, creating collaborative AI …",
+    "created": "2025-11-26T18:02:25Z",
+    "latitude": 47.6742
+  },
+  {
+    "title": "Senior NLP Research Engineer - Artificial Intelligence",
+    "redirect_url": "https://www.adzuna.com/land/ad/5052449773?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=F2192D0474D13A18E0E13600F5A208D02FA6F01C",
+    "created": "2025-02-16T09:29:56Z",
+    "salary_min": 403825.12,
+    "description": "Senior NLP Research Engineer - Artificial Intelligence Location New York Business Area Engineering and CTO Ref  10036233 Description & Requirements Bloomberg's Engineering AI department has 400 AI practitioners building highly sought after products and features that often require novel innovations. We are investing in AI to build better search, discovery, and workflow solutions using technologies such as transformers, gradient boosted decision trees, large language models, and dense vector data…",
+    "latitude": 40.755381,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5052449773",
+    "location": {
+      "display_name": "Grand Central, Manhattan",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "New York",
+        "New York City",
+        "Manhattan",
+        "Grand Central"
+      ]
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bloomberg"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA1MjQ0OTc3MyIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.Gb8Vqsl4YS76L9NEZ-mR1ILf8FPwZgKgPFm0NiPTylc",
+    "longitude": -73.978504,
+    "salary_max": 403825.12,
+    "category": {
+      "label": "IT Jobs",
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.com/land/ad/5627204770?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=D52839B14759CB426AFEB11737FA36951961EACB",
+    "title": "Artificial Intelligence and Data Functional Engagement Manager",
+    "latitude": 47.602485,
+    "salary_min": 128812.77,
+    "description": "Job Description At Boeing, we innovate and collaborate to make the world a better place. We're committed to fostering an environment for every teammate that's welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us. The Boeing Company is currently seeking an Artificial Intelligence and Data Functional Engagement Manager to join the team in Seattle, WA; Chicago, IL; Everett, WA; North Charleston, SC; Ridley Park, PA; Plano, TX; Pleasanton, CA…",
+    "created": "2026-02-12T23:12:08Z",
+    "location": {
+      "area": [
+        "US",
+        "Washington",
+        "King County",
+        "International"
+      ],
+      "display_name": "International, King County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "The Boeing Company",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5627204770",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 128812.77,
+    "longitude": -122.326064,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjI3MjA0NzcwIn0.mX-ivvwCwKv42xKoFEgF7GsZ5LDf1A5rDFn8l9UZjOM"
+  },
+  {
+    "title": "Senior Software Engineer - Reliability - Artificial Intelligence",
+    "redirect_url": "https://www.adzuna.com/land/ad/5590028182?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=565FE2EBA520B16FE0246A76C3171E04058CC397",
+    "created": "2026-01-17T19:50:49Z",
+    "salary_min": 304940.94,
+    "description": "Senior Software Engineer - Reliability - Artificial Intelligence Location New York Business Area Engineering and CTO Ref  10048621 Description & Requirements Bloomberg's Engineering AI department has 400 AI practitioners building highly sought after products and features that often require novel innovations. We are investing in AI to build better search, discovery, and workflow solutions using technologies such as transformers, gradient boosted decision trees, large language models, and dense v…",
+    "latitude": 40.755381,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5590028182",
+    "location": {
+      "area": [
+        "US",
+        "New York",
+        "New York City",
+        "Manhattan",
+        "Grand Central"
+      ],
+      "display_name": "Grand Central, Manhattan",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Bloomberg"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MDAyODE4MiIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.p0U5M7EP2RTbCmZYlrXoXK_i76UgVLTy1_wQdDo1ZDs",
+    "longitude": -73.978504,
+    "salary_max": 304940.94,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    }
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Oracle"
+    },
+    "location": {
+      "display_name": "Burlington, Middlesex County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "Massachusetts",
+        "Middlesex County",
+        "Burlington"
+      ]
+    },
+    "id": "5529976549",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUyOTk3NjU0OSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.Qr9cnPKuWEqILgaLBItIveM7ePZUNIqObIF12Bkg9yw",
+    "salary_max": 193380.83,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs",
+      "label": "IT Jobs"
+    },
+    "longitude": -71.196288,
+    "title": "Principal Research Scientist - Artificial Intelligence Assurance",
+    "redirect_url": "https://www.adzuna.com/land/ad/5529976549?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=40EF3CF35A270B68A66F3E79FECAA182864C999E",
+    "salary_min": 193380.83,
+    "description": "Job Description The Machine Learning Research Group is searching for an outstanding PhD researcher with experience in AI and Machine Learning Safety and Assurance to join our research team. We are passionate about research that both advances science and has impact in the real world. You will be part of an amazing collaborative research team that publishes at the top venues in machine learning and artificial intelligence. Our expertise includes recommender systems, content moderation, foundation…",
+    "created": "2025-12-05T16:00:13Z",
+    "latitude": 42.50598
+  },
+  {
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "salary_max": 231526.67,
+    "longitude": -93.3059,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTcyODIzMzYxIn0.fuhQK4K486YGGKv0LYqNxkuM12OIgXp68GxyuJjA6-U",
+    "location": {
+      "area": [
+        "US",
+        "Minnesota",
+        "Hennepin County",
+        "Minneapolis"
+      ],
+      "display_name": "Minneapolis, Hennepin County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "Honeywell",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5572823361",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 44.9745,
+    "salary_min": 231526.67,
+    "description": "We're seeking a highly skilled Artificial Intelligence & Machine Learning Systems Engineer to architect, design, and develop advanced AI/ML systems that power our next generation of products. In this leadership role, you'll contribute to the technical roadmap, mentor engineering teams, and collaborate with cross-functional teams to deliver intelligent, scalable, and production-ready AI and machine learning technologies. You will be responsible for researching, creating, adapting and evaluating …",
+    "created": "2026-01-07T19:28:59Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5572823361?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=0A9B7BF31AAE0F238EC6FFD789B0C95A81313D27",
+    "title": "Artificial Intelligence & Machine Learning Systems Engineer"
+  },
+  {
+    "title": "Artificial Intelligence & Machine Learning Systems Engineer",
+    "redirect_url": "https://www.adzuna.com/land/ad/5588435512?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=4994D2F76088A3DD0B995CD12E53D571BA447163",
+    "created": "2026-01-16T15:38:29Z",
+    "description": "We're seeking a highly skilled Artificial Intelligence & Machine Learning Systems Engineer to architect, design, and develop advanced AI/ML systems that power our next generation of products. In this leadership role, you'll contribute to the technical roadmap, mentor engineering teams, and collaborate with cross-functional teams to deliver intelligent, scalable, and production-ready AI and machine learning technologies. You will be responsible for researching, creating, adapting and evaluating …",
+    "salary_min": 238884.55,
+    "latitude": 37.304,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "id": "5588435512",
+    "location": {
+      "area": [
+        "US",
+        "California",
+        "Santa Clara County",
+        "Campbell"
+      ],
+      "display_name": "Campbell, Santa Clara County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Honeywell"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4ODQzNTUxMiIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.u7rtpu9U6_ZFStJLJB2Vi2A2ith6DE2lUo0sRQzjsZA",
+    "longitude": -121.89093,
+    "salary_max": 238884.55,
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    }
+  },
+  {
+    "latitude": 32.773978,
+    "created": "2026-01-16T15:38:29Z",
+    "description": "We're seeking a highly skilled Artificial Intelligence & Machine Learning Systems Engineer to architect, design, and develop advanced AI/ML systems that power our next generation of products. In this leadership role, you'll contribute to the technical roadmap, mentor engineering teams, and collaborate with cross-functional teams to deliver intelligent, scalable, and production-ready AI and machine learning technologies. You will be responsible for researching, creating, adapting and evaluating …",
+    "salary_min": 249933.3,
+    "redirect_url": "https://www.adzuna.com/land/ad/5588435497?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=DACD14EE6CFF5624F5F98DE3190BAC15E86266D9",
+    "title": "Artificial Intelligence & Machine Learning Systems Engineer",
+    "longitude": -117.136851,
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "salary_max": 249933.3,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTg4NDM1NDk3In0.M1RdOByQgUMryRAi3c5TSydPn4UVh-1CqCRuzGRJP8E",
+    "id": "5588435497",
+    "location": {
+      "display_name": "San Diego, San Diego County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "US",
+        "California",
+        "San Diego County",
+        "San Diego"
+      ]
+    },
+    "company": {
+      "display_name": "Honeywell",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "created": "2025-12-06T14:16:34Z",
+    "salary_min": 90773.48,
+    "description": "What You Will Do Come join the brightest minds at the most innovative R&D facility supporting our national security! The Computing and Artificial Intelligence (CAI) Division is seeking undergraduate students (UGS) looking for a challenging internship. As a CAI UGS student, we will provide you with a mentor, a challenging project, and an opportunity to present your work and progress to colleagues. The projects will vary depending on your skills and interests and the Laboratory's current needs. T…",
+    "latitude": 35.84934,
+    "title": "Computing and Artificial Intelligence (CAI) Division UGS",
+    "redirect_url": "https://www.adzuna.com/land/ad/5531593001?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=1BBCB2811253462315C809944874280AD14D7A79",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTMxNTkzMDAxIn0.a-OI3ununk1PRhBDvOZlVCfEtjZzbc6OPMBNghDuTJc",
+    "longitude": -106.25982,
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "salary_max": 90773.48,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5531593001",
+    "location": {
+      "area": [
+        "US",
+        "New Mexico",
+        "Los Alamos County",
+        "White Rock"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "White Rock, Los Alamos County"
+    },
+    "company": {
+      "display_name": "Los Alamos National Laboratory",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    }
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "Indiana",
+        "Kosciusko County",
+        "Winona Lake"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Winona Lake, Kosciusko County"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Zimmer Biomet"
+    },
+    "id": "5590012171",
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "it-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs"
+    },
+    "salary_max": 74260.32,
+    "longitude": -85.818646,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MDAxMjE3MSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.F76MGKMAWL9RBiwkBa24W6HkpFNBlc0Yh1nBZ_bXMW4",
+    "redirect_url": "https://www.adzuna.com/land/ad/5590012171?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=A73CA8BF1735BF3607D7995F5A3662769E1BEB4F",
+    "title": "Artificial Intelligence - Technical Program Manager (TPM)",
+    "latitude": 41.273602,
+    "salary_min": 74260.32,
+    "description": "At Zimmer Biomet, we believe in pushing the boundaries of innovation and driving our mission forward. As a global medical technology leader for nearly 100 years, a patient's mobility is enhanced by a Zimmer Biomet product or technology every 8 seconds. As a Zimmer Biomet team member, you will share in our commitment to providing mobility and renewed life to people around the world. To support our talented team, we focus on development opportunities, robust employee resource groups (ERGs), a fle…",
+    "created": "2026-01-17T19:39:18Z"
+  },
+  {
+    "latitude": 35.84934,
+    "salary_min": 102583.18,
+    "description": "What You Will Do Come join the brightest minds at the most innovative R&D facility supporting our national security! The Computing and Artificial Intelligence (CAI) Division is seeking recent graduates looking for a challenging postgraduate internship at the post-baccalaureate level. As a CAI postbac, we will provide you with a mentor, a challenging project, and an opportunity to present your work and progress to colleagues. The projects will vary depending on your skills and interests and the …",
+    "created": "2025-12-09T14:08:11Z",
+    "redirect_url": "https://www.adzuna.com/land/ad/5535274602?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=0AD9A5EA506D59D49958BBDF4901E98538E7802A",
+    "title": "Computing and Artificial Intelligence (CAI) Division Postbac",
+    "salary_max": 102583.18,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs"
+    },
+    "longitude": -106.25982,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NTM1Mjc0NjAyIn0.HfDUMECd9lEe3HIC71gByrzQ9uCzpPYguHbTjRhzWqI",
+    "location": {
+      "area": [
+        "US",
+        "New Mexico",
+        "Los Alamos County",
+        "White Rock"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "White Rock, Los Alamos County"
+    },
+    "company": {
+      "display_name": "Los Alamos National Laboratory",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5535274602",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1"
+  },
+  {
+    "latitude": 29.642252,
+    "created": "2026-02-15T18:36:05Z",
+    "description": "*AST/ASO/FULL PROF in Artificial Intelligence for Quantum Chemistry* *Job No:* 538138 *Work Type:* Full Time *Location:* Main Campus (Gainesville, FL) *Categories:* Education/Training/Instructional Design, Physical/Mathematical Sciences *Department:* 16120100 - LS-CHEMISTRY-GENERAL *Job Description* Classification Title: AST/ASO/FULL PROF Classification Minimum Requirements: Ph.D. in Chemistry or a closely related field Job Description: The University of Florida, Department of Chemistry, invite…",
+    "contract_time": "full_time",
+    "longitude": -82.328911,
+    "category": {
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "id": "5631278188",
+    "location": {
+      "area": [
+        "US",
+        "Florida",
+        "Alachua County",
+        "Gainesville"
+      ],
+      "display_name": "Gainesville, Alachua County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "display_name": "University of Florida",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 77454.82,
+    "redirect_url": "https://www.adzuna.com/land/ad/5631278188?se=ahUlzlwL8RGyd9OpgCILHA&utm_medium=api&utm_source=31b863f3&v=79481AD5852B295B5C00C9EED935413A3E03A4C6",
+    "title": "AST/ASO/FULL PROF in Artificial Intelligence for Quantum Chemistry",
+    "salary_max": 77454.82,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYWhVbHpsd0w4Ukd5ZDlPcGdDSUxIQSIsImkiOiI1NjMxMjc4MTg4In0.0v_Im52jjZeuzf5-flz8JclQfnzJwDph8MFaMi0olm8"
+  },
+  {
+    "location": {
+      "area": [
+        "US",
+        "Maryland",
+        "Anne Arundel County",
+        "Annapolis Junction"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Annapolis Junction, Anne Arundel County"
+    },
+    "company": {
+      "display_name": "IntelliGenesis",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5595806501",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_max": 185106.9,
+    "longitude": -76.789568,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NTgwNjUwMSIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.T0xJKghveIHP-1vT9TTEcKUTi9PjNIDYeiHJwc9OZUs",
+    "redirect_url": "https://www.adzuna.com/details/5595806501?utm_medium=api&utm_source=31b863f3",
+    "title": "Artificial Intelligence SME",
+    "latitude": 39.127328,
+    "salary_min": 185106.9,
+    "description": "Job Description: The Artificial Intelligence Subject Matter Expert (AI SME) provides authoritative technical expertise in artificial intelligence and machine learning to support the design, development, delivery, and evaluation of training programs. The AI SME ensures instructional content is technically accurate, current with industry and DoW-relevant AI practices, and aligned with mission needs, operational use cases, and workforce competency requirements. Responsibilities: Serve as the prima…",
+    "created": "2026-01-22T13:59:23Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwNDMyNTk5MCIsInMiOiJhaFVsemx3TDhSR3lkOU9wZ0NJTEhBIn0.-OZ6k2wknS2yeOjl_7CbgHXUd333sSKdmt2Rs4UMarc",
+    "salary_max": 79924.55,
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "longitude": -106.6516,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "US",
+        "New Mexico",
+        "Bernalillo County",
+        "Albuquerque"
+      ],
+      "display_name": "Albuquerque, Bernalillo County",
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MJK Connections LLC"
+    },
+    "id": "5604325990",
+    "salary_min": 79924.55,
+    "description": "MJK Connections is partnering with Sunward on this highly impactive Artificial Intelligence Specialist in Albuquerque, New Mexico! The Artificial Intelligence (AI) Specialist independently develops, tests, and maintains AI-driven solutions that improve process efficiency, enhance member and employee experiences, and support automation across the Credit Union. This role focuses on the practical application of AI technologies to solve business problems, including developing intelligent automation…",
+    "created": "2026-01-28T23:06:50Z",
+    "latitude": 35.0846,
+    "title": "Artificial Intelligence Specialist",
+    "redirect_url": "https://www.adzuna.com/details/5604325990?utm_medium=api&utm_source=31b863f3"
+  }
+]
