@@ -66,7 +66,10 @@ This will:
 - Save processed data in `data/cleaned/`
 - Generate visualizations in the `images/` folder
 
+
 #Quetion sanswer
+Bwloq is the Pipeline architecture diagram.
+![Pipeline Architecture](images/pipeline_diagram.png)
 
 ## Part 1 Questions
 
