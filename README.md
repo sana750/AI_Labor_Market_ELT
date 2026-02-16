@@ -69,7 +69,7 @@ This will:
 
 #Quetion sanswer
 Bwloq is the Pipeline architecture diagram.
-![Pipeline Architecture](images/pipeline_diagram.png)
+![Pipeline Architecture](images/ELT_architecture_diagram.png)
 
 ## Part 1 Questions
 
